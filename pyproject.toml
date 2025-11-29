@@ -15,4 +15,5 @@ dependencies = [
     "plotly>=6.5.0",
     "nbconvert>=7.16.6",
     "anywidget>=0.9.21",
+    "pathlib>=1.0.1",
 ]
