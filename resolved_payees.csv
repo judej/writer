@@ -1,0 +1,1456 @@
+original_payee,real_name,confidence
+*LAKE CITY          SEATTLE            W,Lake City Seattle Wa,0.85
+10098 CAVA SUBURBAN SQ   ARDMORE      PA,Cava Suburban Square Ardmore,0.4
+4490 SOUTH STATE 100MOUNT CARMEL        UT,South State Mount Carmel,0.4
+46630 N BEND WAY 574NORTH BEND          WA,N Bend Way North Bend,0.4
+6951310 - PEET'S COFSEATTLE             WA,Peet's Coffee,0.95
+7-ELEVEN 23020           SEATTLE      WA,7-Eleven,0.9333333333333333
+7-ELEVEN T3 #03-12  SINGAPORE           SG,7-Eleven,0.9333333333333333
+76 - CF UNITED APRO LLC 2BELLEVUE     WA,- Cf United Apro Llc Bellevue,0.4
+76 - CHELAN 76           CHELAN       WA,- Chelan Chelan,0.4
+76 - HUNGRY BEAR MARKET  BELLEVUE     WA,- Hungry Bear Market Bellevue,0.4
+76 - MARKET PLACE        ORONDO       WA,- Market Place Orondo,0.4
+76 - ROOSEVELT 76        SEATTLE      WA,- Roosevelt Seattle,0.4
+76 - THE POINT           SEATTLE      WA,- The Point Seattle,0.4
+76 - VILLAGE MARKET 76   SEATTLE      WA,- Village Market Seattle,0.4
+76 Fuel,Fuel,0.4
+7E - TERMINAL 2     SINGAPORE           SG,E - Terminal Singapore,0.4
+81394 - WESTLAKE & TERRY SEATTLE WA,- Westlake Terry Seattle,0.4
+AAA WA MEMBERSHIP 00     800-562-2582 WA,Aaa Membership - -,0.4
+AAA WA MEMBERSHIP 01     800-562-2582 WA,Aaa Membership - -,0.4
+ACT THEATRE WEB 206-292-7660 WA,Act Theatre Web - -,0.4
+ACTIVE CULTURE CAFE BEND                OR,Active Culture Cafe Bend,0.4
+ADOBE Adobe Systems SAN JOSE            CA,Adobe Adobe Systems San Jose,0.4
+AER LINGUS          DUBLIN              CO,Aer Lingus Dublin,0.4
+AEROP. ADOLFO SUAREZ MADRMADRID       ES,Aerop Adolfo Suarez Madrmadrid Es,0.4
+AIRBNB * HMKNBQB23F AIRBNB.COM CA,Airbnb Hmknbqb F Airbnb Com,0.4
+AIRBNB * HMSBE25BKD AIRBNB.COM CA,Airbnb Hmsbe Bkd Airbnb Com,0.4
+ALADDIN GYRO RESTAURSEATTLE             WA,Aladdin Gyro Restaurseattle,0.4
+ALASKA AIR 0272105259538SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIR 0272105260139SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIR 0272105260140SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIR 0272105262086SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIR 0272106640952SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIR 0272109051092SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIR 0272394527601SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIR SEATTLE WA,Alaska Air Seattle,0.4
+ALASKA AIRLINES     SEATTLE             WA,Alaska Airlines Seattle,0.4
+ALCAMPO LOGRONO          LOGRONO      ES,Alcampo Logrono Logrono Es,0.4
+ALIMENTACION PRIMOS      LOGRONO      ES,Alimentacion Primos Logrono Es,0.4
+ALL THE BEST PET CARE    206-529-8000 WA,Peet's Coffee,0.8571428571428571
+ALLIANZ TRAVEL INS ALLIANZINS.USVA,Allianz Travel Ins Allianzins Usva,0.4
+ALOFT TOKYO GINZA -C*                   JP,Aloft Tokyo Ginza -C Jp,0.4
+AMAZON MARKEPLACE NA PA,Amazon,0.95
+AMAZON MKTPL*061WN5NY3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*273Q84KG3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*6E4ZE8763   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*EC40N97Z3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*FI8UH9NO3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*GF1UN5B83   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*IF1QL9TA3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*MW7QB7WZ3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*N322C53H1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*NI8I808V2   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*NL2152RU0   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*NL4NU0RP0   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*NN6730OD0   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*P05GB2GW3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*QQ4DT5PS3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*QZ40E1J43   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*TH6WJ55D3   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*US5PT8663   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*Z52ZS0DB1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*Z54JZ8642   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*Z56Q89YW1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*Z58Q362O1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*Z702C1CJ2   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*Z77XG2681   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*Z79WK7O91   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*ZC8QI0BP1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*ZC9RT2EF1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*ZD4US5WL1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPL*ZG4154MU1   Amzn.com/billWA,Amazon,0.95
+AMAZON MKTPLACE PMTS Amzn.com/bil CREDIT,Amazon,0.95
+AMAZON PRIME PMTS        Amzn.com/billWA,Amazon,0.95
+AMAZON PRIME PMTS        amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*0T9CY5VAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*213NF2FAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*4624A69AMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*5316N72Q3   amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*7R96V3LAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*7X9QF4S53   Amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*824L43403   amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*8H20B7AAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*CD8MF53T3   Amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*CF97H77AMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*CX8JA8F93   Amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*ME6UU9WAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*NW4220JE2   amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*NZ74Z5X60   Amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*OR9JH8RAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*P68E02BAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*R20V94KAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*R65X76OAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*R70Z389AMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*RC2PT4CAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*RH0065XAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*RI85E93AMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*RM6V80PAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*RT91L4HAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*RV7G20WAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*TK4KO2ZAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*TS9O522T3   amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*TV87O1CAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*WD2W52KAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON PRIME*Z54N97PA2   amzn.com/billWA,Amazon,0.95
+AMAZON PRIME*ZT4FY7XAMZN.CO.UK/PM       GB,Amazon,0.95
+AMAZON.COM          AMZN.COM/BILL       WA,Amazon,0.95
+AMBASSADOR TRANSIT HSINGAPORE           SG,Ambassador Transit Hsingapore,0.4
+AMC Theatres,Amc Theatres,0.4
+AMERICAN EXPRESS TRASEATTLE             WA,American Express Traseattle,0.4
+AMEX CLEAR PLUS CREDIT,Amex Clear Plus Credit,0.4
+AMK BRYCE CANYON GIFT    BRYCE        UT,Amk Bryce Canyon Gift Bryce,0.4
+AMZ*5a93g3xcp Lumen FieldSeattle      WA,Amz A G Xcp Lumen Fieldseattle,0.4
+ANA AIR 2057210998390SEATTLE WA,Ana Air Seattle,0.4
+ANA AIR 2057210998391SEATTLE WA,Ana Air Seattle,0.4
+ANNUAL FEE,Annual Fee,0.4
+ANNUAL FEE 07/25 THROUGH 06/26,Annual Fee Through,0.4
+ANTHROPIC           SAN FRANCISCO       CA,Anthropic San Francisco,0.4
+AP-1 ARABAT MOND-ETXA    GASTEIZ-VITO ES,Ap- Arabat Mond-Etxa Gasteiz-Vito Es,0.4
+APNA BAZAR BELLEVUE      BELLEVUE     WA,Apna Bazar Bellevue Bellevue,0.4
+APPLE ANNIES ANTIQUE GALLCASHMERE     WA,Apple Annies Antique Gallcashmere,0.4
+APPLE STORE R072 R07SEATTLE             WA,Apple Store R R Seattle,0.4
+APPLE STORE  #R072       SEATTLE      WA,Apple Store R Seattle,0.4
+APPLE.COM/BILL      INTERNET CHARGE     CA,Apple Com Bill Internet Charge,0.4
+APPLE.COM/BILL           800-275-2273 CA,Apple Com Bill - -,0.4
+APPLE.COM/BILL           866-712-7753 CA,Apple Com Bill - -,0.4
+ARASHIYUGIONBETTEI AKYOTO               JP,Arashiyugionbettei Akyoto Jp,0.4
+ARCO#00818RED SEA SERVIC SEATTLE      WA,Arco Red Sea Servic Seattle,0.4
+ARCO#04124BELLA CHANSANDY               OR,Arco Bella Chansandy,0.4
+ARCO#07060ARCO #0706BURLINGTON          WA,Arco Arco Burlington,0.4
+ARCO#82880TANG & CHEISSAQUAH            WA,Arco Tang Cheissaquah,0.4
+ARCO#83231EMANUEL II LLC BELLEVUE     WA,Arco Emanuel Ii Llc Bellevue,0.4
+ARRIZUL CONGRESS         SAN SEBASTIANES,Arrizul Congress San Sebastianes,0.4
+ASUTYKYOTO ASUTYSHINJAPAN               JP,Asutykyoto Asutyshinjapan Jp,0.4
+ATLAS FREMONT MALL LLC   SEATTLE      WA,Atlas Fremont Mall Llc Seattle,0.4
+ATPSEITT  M-50S-&gt;N-IITMADRID       ES,Atpseitt M- S- Gt N-Iitmadrid Es,0.4
+ATRE SHINAGAWA      TOKYO               JP,Atre Shinagawa Tokyo Jp,0.4
+AUTOBACS (POS)           OSAKA        JP,Autobacs Pos Osaka Jp,0.4
+AUTOBACS GROUP      MITA                JP,Autobacs Group Mita Jp,0.4
+AUTOZONE #5197           ARLINGTON    WA,Autozone Arlington,0.4
+AVIS RENT A CAR     MISSOULA            MT,Avis Rent A Car Missoula,0.4
+AWFULLY CHOCOLATE - SINGAPORE           SG,Awfully Chocolate - Singapore,0.4
+AZZIST MEMBER       TOKYO               JP,Azzist Member Tokyo Jp,0.4
+Airbnb,Airbnb,0.4
+Amazon Prime*Z525889Q1   Amzn.com/billWA,Amazon,0.95
+Amazon.com*0B3HR7EO3     Amzn.com/billWA,Amazon,0.95
+Amazon.com*2A24M10I3     Amzn.com/billWA,Amazon,0.95
+Amazon.com*7J16U4U33     Amzn.com/billWA,Amazon,0.95
+Amazon.com*B20R95CH2 Amzn.com/billWA,Amazon,0.95
+Amazon.com*BH4NM58A3     Amzn.com/billWA,Amazon,0.95
+Amazon.com*CS6563T93     Amzn.com/billWA,Amazon,0.95
+Amazon.com*NN5O80NT1     Amzn.com/billWA,Amazon,0.95
+Amazon.com*QB3Z36JM3     Amzn.com/billWA,Amazon,0.95
+Amazon.com*RX1U73SC3     Amzn.com/billWA,Amazon,0.95
+Amazon.com*Z58QK5JE2     Amzn.com/billWA,Amazon,0.95
+Amazon.com*ZC3ND69W0     Amzn.com/billWA,Amazon,0.95
+Amazon.com*ZE7HH6781     Amzn.com/billWA,Amazon,0.95
+Amazon.com*ZU8UZ1MB0     Amzn.com/billWA,Amazon,0.95
+Amex Send: Transfer to Card-Inactivity,Amex Send Transfer To Card-Inactivity,0.4
+Anchorhead Coffee,Anchorhead Coffee,0.4
+AplPay 2420 SPANISH MOAB                UT,Aplpay Spanish Moab,0.4
+AplPay ALBERTSONS #0MISSOULA            MT,Aplpay Albertsons Missoula,0.4
+AplPay APPLE ONLINE CUPERTINO           CA,Aplpay Apple Online Cupertino,0.4
+AplPay APPLE STORE RSEATTLE             WA,Aplpay Apple Store Rseattle,0.4
+AplPay APPLE.COM/BILINTERNET CHARGE     CA,Aplpay Apple Com Bilinternet Charge,0.4
+AplPay APPLE.COM/US CUPERTINO           CA,Aplpay Apple Com Cupertino,0.4
+AplPay AVANTI WEST CBIRMINGHAM          GB,Aplpay Avanti West Cbirmingham Gb,0.4
+AplPay BOMBAY EXPRESSEATTLE             WA,Aplpay Bombay Expresseattle,0.4
+AplPay BOOTS THE CHEST ANDREWS          GB,Aplpay Boots The Chest Andrews Gb,0.4
+AplPay CANDY TYME WESEATTLE             WA,Aplpay Candy Tyme Weseattle,0.4
+AplPay CHIPOTLE 2574SEATTLE             WA,Aplpay Chipotle Seattle,0.4
+AplPay CIRCLE K 6558SPOKANE VALLE       WA,Aplpay Circle K Spokane Valle,0.4
+AplPay CITY-MARKET #CORTEZ              CO,Aplpay City-Market Cortez,0.4
+AplPay COFF.EE* COCOSAN FRANCISCO       CA,Aplpay Coff Ee Cocosan Francisco,0.4
+AplPay DURANGO BAGELDURANGO             CO,Aplpay Durango Bageldurango,0.4
+AplPay EDINBURGH TRAEDINBURGH           GB,Aplpay Edinburgh Traedinburgh Gb,0.4
+"AplPay ETSY, INC.   BROOKLYN            NY",Aplpay Etsy Inc Brooklyn,0.4
+AplPay FISHERIES SUPSEATTLE             WA,Aplpay Fisheries Supseattle,0.4
+AplPay FUEL STOP 113EVANSTON            WY,Aplpay Fuel Stop Evanston,0.4
+AplPay GADGET REHAB SEATTLE             WA,Aplpay Gadget Rehab Seattle,0.4
+AplPay GAP US 1715  SEATTLE             WA,Aplpay Gap Seattle,0.4
+AplPay GETYOURGUIDE DOVER               DE,Aplpay Getyourguide Dover,0.4
+AplPay GIFF'S BARBECKANAB               UT,Aplpay Giff S Barbeckanab,0.4
+AplPay GOFUNDME     SAN DIEGO           CA,Aplpay Gofundme San Diego,0.4
+AplPay GOOD FOOD STOMISSOULA            MT,Aplpay Good Food Stomissoula,0.4
+AplPay HACHI-KO 0000SEATAC              WA,Aplpay Hachi-Ko Seatac,0.4
+AplPay HEALTHY BEINGJackson             WY,Aplpay Healthy Beingjackson,0.4
+AplPay HOLLAND & BARST ANDREWS          GB,Aplpay Holland Barst Andrews Gb,0.4
+AplPay INDIGO BC - LVANCOUVER           CA,Aplpay Indigo Bc - Lvancouver,0.4
+AplPay KINOKUNIYA BOSEATTLE             WA,Aplpay Kinokuniya Boseattle,0.4
+AplPay LIME*PASS FA6SAN FRANCISCO       CA,Aplpay Lime Pass Fa San Francisco,0.4
+AplPay LS ST ANDREWSST ANDREWS          FI,Aplpay Ls Street Andrewsst Andrews Fi,0.4
+AplPay LS ST ANDREWSST ANDREWS          GB,Aplpay Ls Street Andrewsst Andrews Gb,0.4
+AplPay LS TUBA CITY TUBA CITY           AZ,Aplpay Ls Tuba City Tuba City,0.4
+AplPay MAVERIK #353 JACKSON             WY,Aplpay Maverik Jackson,0.4
+AplPay MAVERIK #581 CLEARFIELD          UT,Aplpay Maverik Clearfield,0.4
+AplPay MAVERIK #613 SPOKANE             WA,Aplpay Maverik Spokane,0.4
+AplPay MCDONALDS 137TIBSHELF            GB,McDonald's,0.95
+AplPay MESA VERDE VIMANCOS              CO,Aplpay Mesa Verde Vimancos,0.4
+AplPay METROPOLITAN SEATTLE             WA,Aplpay Metropolitan Seattle,0.4
+AplPay MIDNIGHT COOKSeattle             WA,Aplpay Midnight Cookseattle,0.4
+AplPay MOBILE PASMO TOKYO               JP,Aplpay Mobile Pasmo Tokyo Jp,0.4
+AplPay NATURAL GROCEDURANGO             CO,Aplpay Natural Grocedurango,0.4
+AplPay NORDSTROM    SEATTLE             WA,Aplpay Nordstrom Seattle,0.4
+AplPay OUTDOOR EMPORSEATTLE             WA,Aplpay Outdoor Emporseattle,0.4
+AplPay PILOT_01195 0ELLENSBURG          WA,Aplpay Pilot Ellensburg,0.4
+AplPay PY *KETTLE HOMISSOULA            MT,Aplpay Py Kettle Homissoula,0.4
+AplPay RACHEL'S GINGseattle             WA,Aplpay Rachel S Gingseattle,0.4
+AplPay RAVENNA BREWISeattle             WA,Aplpay Ravenna Brewiseattle,0.4
+AplPay REI #11 SEATTSEATTLE             WA,Aplpay Rei Seattseattle,0.4
+AplPay REI #231 JACKJACKSON             WY,Aplpay Rei Jackjackson,0.4
+AplPay SAINSBURY'S EEDINBURGH           GB,Aplpay Sainsbury S Eedinburgh Gb,0.4
+AplPay SAMURAI NOODLSeattle             WA,Aplpay Samurai Noodlseattle,0.4
+AplPay SIERRA FORESTKENT                WA,Aplpay Sierra Forestkent,0.4
+AplPay SP JACK JEROMSEATTLE             WA,Aplpay Sp Jack Jeromseattle,0.4
+AplPay SPEEDWAY 4631TUBA CITY           AZ,Aplpay Speedway Tuba City,0.4
+AplPay SPOKANE KOA  SPOKANE VALLEY      WA,Aplpay Spokane Koa Spokane Valley,0.4
+AplPay STEVE'S POKE Vancouver           CA,Aplpay Steve S Poke Vancouver,0.4
+AplPay SUBWAY 47663 RICHMOND            CA,Aplpay Subway Richmond,0.4
+AplPay SUMUP*TAXI   DUNDEE,Aplpay Sumup Taxi Dundee,0.4
+AplPay SUSHI%AYCE   CHICAGO             IL,Aplpay Sushi Ayce Chicago,0.4
+AplPay TESCO STORE 3ST. ANDREWS         GB,Aplpay Tesco Store Street Andrews Gb,0.4
+AplPay TFL TRAVEL CHTFL.GOV.UK/CP       GB,Aplpay Tfl Travel Chtfl Gov Cp Gb,0.4
+AplPay THREE FORKS KTHREE FORKS         MT,Aplpay Three Forks Kthree Forks,0.4
+AplPay TOWNPUMP WHITWHITEHALL           MT,Aplpay Townpump Whitwhitehall,0.4
+AplPay TRAINLINE TraLONDON              GB,Aplpay Trainline Tralondon Gb,0.4
+AplPay TST* ANJAPPARBELLEVUE            WA,Aplpay Tst Anjapparbellevue,0.4
+AplPay TST* DINGFELDSEATTLE             WA,Aplpay Tst Dingfeldseattle,0.4
+AplPay TST* HIDEAWAYSEDONA              AZ,Aplpay Tst Hideawaysedona,0.4
+AplPay TST* MEE SUM SEATTLE             WA,Aplpay Tst Mee Sum Seattle,0.4
+AplPay TST* MTR 3007BELLEVUE            WA,Aplpay Tst Mtr Bellevue,0.4
+AplPay TST* THAI FUSSEATTLE             WA,Aplpay Tst Thai Fusseattle,0.4
+AplPay TST* UMI SUSHSPOKANE             WA,Aplpay Tst Umi Sushspokane,0.4
+AplPay UBER EATS    help.uber.com       CA,Uber Trip,0.85
+AplPay UBER TRIP    HTTPS://HELP.UBER.CO,Uber Trip,0.85
+AplPay UBER TRIP    HTTPS://HELP.UBER.COGB,Uber Trip,0.85
+AplPay WALKER TRUE VMOAB                UT,Aplpay Walker True Vmoab,0.4
+AplPay WESTGATE STATWEST YELLOWST       MT,Aplpay Westgate Statwest Yellowst,0.4
+AplPay WWW.HOSTELWORDUBLIN              CO,Aplpay Www Hostelwordublin,0.4
+AplPay ZETTLE *THE NNEWPORT-ON-TAY      GB,Aplpay Zettle The Nnewport-On-Tay Gb,0.4
+Apple,Apple,0.4
+At Seattleaquarium,At Seattleaquarium,0.4
+BA ELECTRONIC PAYMENT,Ba Electronic Payment,0.4
+BACKWATER RIPPLES PRIV   KOTTAYAM     II,Backwater Ripples Priv Kottayam Ii,0.4
+BAECKEREI HAUETER        ADELBODEN    CH,Baeckerei Haueter Adelboden Ch,0.4
+BAKERY CAFE C NAMBA *                   JP,Bakery Cafe C Namba Jp,0.4
+BAMBU LAB STORE 7027AUSTIN              TX,Bambu Lab Store Austin,0.4
+BAR LA SENDA             LOGRONO      ES,Bar Senda Logrono Es,0.4
+BAR PRADOVIEJO           LOGRONO      ES,Bar Pradoviejo Logrono Es,0.4
+BARTELL DRUG 06931       SEATTLE      WA,Bartell Drug Seattle,0.4
+BARTELL DRUG 06973 SEATTLE WA,Bartell Drug Seattle,0.4
+BAY STREET    460001MONTCLAIR           NJ,Bay Street Montclair,0.4
+BELLEVUE GUN CLUB BEBELLEVUE            WA,Bellevue Gun Club Bebellevue,0.4
+BIDEGI A8/A1 GIPUZKOA    DONOSTIA-SAN ES,Bidegi A A Gipuzkoa Donostia-San Es,0.4
+BLACKBURN DRUG 65000JACKSON             WY,Blackburn Drug Jackson,0.4
+BLVD   *RUDY'S LAURELHURSSEATTLE      WA,Blvd Rudy S Laurelhursseattle,0.4
+BODEGAS PAGOS DE GANUZA  OYON         ES,Bodegas Pagos Ganuza Oyon Es,0.4
+BODEGON EL REFUGIO       LOGRO/O      ES,Bodegon El Refugio Logro O Es,0.4
+BOOTS THE CHEMIST   ST ANDREWS          GB,Boots The Chemist Street Andrews Gb,0.4
+BRITISH AIRWAYS BritHARMONDSWORTH       GB,British Airways Britharmondsworth Gb,0.4
+BROWN BEAR CAR WASH #1026SEATTLE      WA,Brown Bear Car Wash Seattle,0.4
+BROWN BEAR CAR WASH - 15TSEATTLE      WA,Brown Bear Car Wash - Tseattle,0.4
+BROWN BEAR CAR WASH - NE SEATTLE      WA,Brown Bear Car Wash - Seattle,0.4
+BROWN BEAR LAKE CITY SEATTLE WA,Lake City Seattle Wa,0.85
+Ba Bar University,Ba Bar University,0.4
+BackCountry - Seattle    Seattle      WA,Backcountry - Seattle Seattle,0.4
+Banyan Tree Thai RestauraKENT         WA,Banyan Tree Thai Restaurakent,0.4
+Best Buy,Best Buy,0.4
+Borowitzreport Substac Borowitzreporca,Borowitzreport Substac Borowitzreporca,0.4
+Brownpapertickets.com,Brownpapertickets Com,0.4
+Buckaroo Annef,Buckaroo Annef,0.4
+CACHITO MIO LARDERO,Cachito Mio Lardero,0.4
+CAFE JAVASTI             SEATTLE      WA,Cafe Javasti Seattle,0.4
+CAFE PASQUAL'S SANTA FE NM,Cafe Pasqual S Santa Fe,0.4
+CALENDA PORTALES         LOGRO/O      ES,Calenda Portales Logro O Es,0.4
+CAMP NORWESTER WWW.NORWESTERWA,Camp Norwester Www Norwesterwa,0.4
+CANNON EYECARE - UV      SEATTLE      WA,Cannon Eyecare - Uv Seattle,0.4
+CARILLON POINT PARKING   KIRKLAND     WA,Carillon Point Parking Kirkland,0.4
+CARNICERIA INAKI BALERDI DONOSTIA-SAN ES,Carniceria Inaki Balerdi Donostia-San Es,0.4
+CASA VICTOR              LOGROO       ES,Casa Victor Logroo Es,0.4
+CASH ADVANCE FEE,Cash Advance Fee,0.4
+CASUALFOOD 2630 1 + APM  Frankfurt am DF,Casualfood Apm Frankfurt Am Df,0.4
+CASUALFOOD  2130         Frankfurt am DF,Casualfood Frankfurt Am Df,0.4
+CEDARS OF LEBANON   SEATTLE             WA,Cedars Of Lebanon Seattle,0.4
+CENEX CHS NORTHWEST BLACK DIAMOND       WA,Cenex Chs Northwest Black Diamond,0.4
+CENTARAGRANDHOTELOSAOSAKA               JP,Centaragrandhotelosaosaka Jp,0.4
+CENTRAL CO-OP            SEATTLE      WA,Central Co-Op Seattle,0.4
+CHAPULIN OAXAQUENO LLC   SEATTLE      WA,Chapulin Oaxaqueno Llc Seattle,0.4
+CHEVRON 0091292/CHEVNORTH BEND          WA,Chevron,0.95
+CHEVRON 0092584/CHEVSEATTLE             WA,Chevron,0.95
+CHEVRON 0097258          SEATTLE      WA,Chevron,0.95
+CHEVRON 0098995/CHEVPACKWOOD            WA,Chevron,0.95
+CHEVRON 0203477/CHEVSEATTLE             WA,Chevron,0.95
+CHEVRON 0203477          SEATTLE      WA,Chevron,0.95
+CHEVRON 0205257          SEATTLE      WA,Chevron,0.95
+CHEVRON 0205343          SNOQUALMIE PAWA,Chevron,0.95
+CHEVRON 0305496          CASTLE ROCK  WA,Chevron,0.95
+CHEVRON 0378582          SEATTLE      WA,Chevron,0.95
+CHILI'S DELI             SEATTLE      WA,Chili S Deli Seattle,0.4
+CHINA EASTERN AIR CHUNITED KINGDOM      GB,China Eastern Air Chunited Kingdom Gb,0.4
+CHIPOTLE 0469            BELLEVUE     WA,Chipotle Bellevue,0.4
+CHIPOTLE 1083            SEATTLE      WA,Chipotle Seattle,0.4
+CHIPOTLE 1219            ANN ARBOR    MI,Chipotle Ann Arbor,0.4
+CHIPOTLE 1364            BELLEVUE     WA,Chipotle Bellevue,0.4
+CHIPOTLE 1984            SEATTLE      WA,Chipotle Seattle,0.4
+CHIPOTLE 2554            SEATTLE      WA,Chipotle Seattle,0.4
+CHIPOTLE 2574            SEATTLE      WA,Chipotle Seattle,0.4
+CHIPOTLE 2935            SEATTLE      WA,Chipotle Seattle,0.4
+CHIPOTLE 5280            SEATTLE      WA,Chipotle Seattle,0.4
+CHIPOTLE 5396            PORT ANGELES WA,Chipotle Port Angeles,0.4
+CHS INC             BLACK DIAMOND       WA,Chs Inc Black Diamond,0.4
+CIAL DUTYFREE AND RETA   ERNAKULAM    II,Cial Dutyfree And Reta Ernakulam Ii,0.4
+CINNAMON WORK'S          SEATTLE      WA,Cinnamon Work S Seattle,0.4
+CIRCLE K # 09654         KIRKLAND     WA,Circle K Kirkland,0.4
+CITY MARKET #0208 FUCORTEZ              CO,City Market Fucortez,0.4
+CITY OF SEATTLE          206-6845226  WA,City Of Seattle -,0.4
+CITY OF UMATILLA         UMATILLA     OR,City Of Umatilla Umatilla,0.4
+CITY PEOPLE S MERC  SEATTLE             WA,City People S Merc Seattle,0.4
+CITY PEOPLE`S MERC       SEATTLE      WA,City People S Merc Seattle,0.4
+CL *TRIPCHARGES          TRIPCHRG.COM VA,Cl Tripcharges Tripchrg Com,0.4
+CLAUDE.AI SUBSCRIPTIPASADENA            CA,Claude Ai Subscriptipasadena,0.4
+CLAUDE.AI SUBSCRIPTISAN FRANCISCO       CA,Claude Ai Subscriptisan Francisco,0.4
+CLEAR *CLEARME.COM  NEW YORK            NY,Clear Clearme Com New York,0.4
+CLINE BOT INC       WILMINGTON          DE,Cline Bot Inc Wilmington,0.4
+COCOKARAFINE        KANAGAWA            JP,Cocokarafine Kanagawa Jp,0.4
+COGNITION LABS (DEVISAN FRANCISCO       CA,Cognition Labs Devisan Francisco,0.4
+COLMAR HOME CENTER 0MARGATE CITY        NJ,Colmar Home Center Margate City,0.4
+COMCAST / XFINITY        800-266-2278 WA,Comcast Xfinity - -,0.4
+COMCAST CABLE COMM       800-COMCAST  WA,Comcast Cable Comm -Comcast,0.4
+CONCESSIONS @LUMEN FIELD SEATTLE      WA,Concessions Lumen Field Seattle,0.4
+CONVENFEE 866-492-3463 MA,Convenfee - -,0.4
+CORE DEVICES        SAN FRANCISCO       CA,Core Devices San Francisco,0.4
+COSTCO *ANNUAL RENEWAL   800-774-2678 WA,Costco,0.95
+COSTCO BY INSTACART      HTTPSINSTACARCA,Costco,0.95
+COSTCO BY INSTACART      INSTACART.COMCA,Costco,0.95
+COSTCO BY INSTACART      WWW.COSTCO.COCA,Costco,0.95
+COSTCO BY INSTACART      WWW.COSTCO.COWA,Costco,0.95
+COSTCO GAS #1216         BELLINGHAM   WA,Costco,0.95
+COSTCO WHSE #0001        SEATTLE      WA,Costco,0.95
+COSTCO WHSE #0110        ISSAQUAH     WA,Costco,0.95
+COSTCO WHSE #0662        BURLINGTON   WA,Costco,0.95
+COSTCO WHSE #0670        SPOKANE      WA,Costco,0.95
+COSTCO WHSE #1190 LYNNWOOD WA,Costco,0.95
+COSTCO WHSE #1190        LYNNWOOD     WA,Costco,0.95
+COSTCO WHSE#1216         BELLINGHAM   WA,Costco,0.95
+COURSEFORHIPAA.COM 407-9066254 FL,Courseforhipaa Com -,0.4
+COVERSANDALL.COM         COVERSANDALL.GA,Coversandall Com Coversandall,0.4
+COVERSANDALL.COM         SUWANEE      GA,Coversandall Com Suwanee,0.4
+COYOTE CAFE SANTA FE NM,Coyote Cafe Santa Fe,0.4
+CPI*CANTEEN VENDING EVERE800-628-8363 WA,Cpi Canteen Vending Evere - -,0.4
+CRACKER BARREL #407 MISSOULA            MT,Cracker Barrel Missoula,0.4
+CRAFT TREE               ERNAKULAM    II,Craft Tree Ernakulam Ii,0.4
+CRYSTAL MOUNTAIN 360-663-3020 WA,Crystal Mountain - -,0.4
+CSA-GGA-DAMAGE INSURAN clover.com CA,Csa-Gga-Damage Insuran Clover Com,0.4
+CTLP*CANTEEN VENDING S   CHARLOTTE    NC,Ctlp Canteen Vending S Charlotte,0.4
+CU4TRO                   LOGRONO      ES,Cu Tro Logrono Es,0.4
+CURSOR USAGE  APR   NEW YORK            NY,Cursor Usage Apr New York,0.4
+CURSOR USAGE  DEC   NEW YORK            NY,Cursor Usage Dec New York,0.4
+CURSOR USAGE  FEB   NEW YORK            NY,Cursor Usage Feb New York,0.4
+CURSOR USAGE  JAN   NEW YORK            NY,Cursor Usage Jan New York,0.4
+CURSOR USAGE  MAR   NEW YORK            NY,Cursor Usage Mar New York,0.4
+CURSOR USAGE  MAY   NEW YORK            NY,Cursor Usage May New York,0.4
+CURSOR USAGE MID  APNEW YORK            NY,Cursor Usage Mid Apnew York,0.4
+CURSOR USAGE MID  MANEW YORK            NY,Cursor Usage Mid Manew York,0.4
+"CURSOR, AI POWERED INEW YORK            NY",Cursor Ai Powered Inew York,0.4
+CVS,Cvs,0.4
+CVS/PHARMACY #10387      SEATTLE      WA,Cvs Pharmacy Seattle,0.4
+Cafe Javasti,Cafe Javasti,0.4
+Chevron,Chevron,0.95
+Chipotle,Chipotle,0.4
+City of Durango          DURANGO      CO,City Of Durango Durango,0.4
+Comcast,Comcast,0.4
+Costco,Costco,0.95
+Crazy Sports Ltd.        Adelboden    CH,Crazy Sports Ltd Adelboden Ch,0.4
+Crystal Mountain TikEnumclaw            WA,Crystal Mountain Tikenumclaw,0.4
+Cyclical Design Produseattle,Cyclical Design Produseattle,0.4
+DAISO JAPAN - ION SINGAPORE,Daiso Japan - Ion Singapore,0.4
+DANDADAN ASAKUSATEN TOKYO               JP,Dandadan Asakusaten Tokyo Jp,0.4
+DD *DOORDASH BABAR,Dd Doordash Babar,0.4
+DD *DOORDASH BABAR       DOORDASH.COM CA,Dd Doordash Babar Doordash Com,0.4
+DD *DOORDASH BAITONGTH   DOORDASH.COM CA,Dd Doordash Baitongth Doordash Com,0.4
+DD *DOORDASH DINGFELDE   DOORDASH.COM CA,Dd Doordash Dingfelde Doordash Com,0.4
+DD *DOORDASH KEDAIMAKA   DOORDASH.COM CA,Dd Doordash Kedaimaka Doordash Com,0.4
+DD *DOORDASH MAMNOON     DOORDASH.COM CA,Dd Doordash Mamnoon Doordash Com,0.4
+DD *DOORDASH MONSOONSE   DOORDASH.COM CA,Dd Doordash Monsoonse Doordash Com,0.4
+DD *DOORDASH NOITHAICU   DOORDASH.COM CA,Dd Doordash Noithaicu Doordash Com,0.4
+DD *DOORDASH SISTERSAN   WWW.DOORDASH.CA,Dd Doordash Sistersan Www Doordash,0.4
+DECATHLON LOGRONO LOGRONO,Decathlon Logrono Logrono,0.4
+DECATHLON VYTTILA 1323   KOCHI        II,Decathlon Vyttila Kochi Ii,0.4
+DEERLINE AIR        NARA                JP,Deerline Air Nara Jp,0.4
+DEFY SEATTLE        TUKWILA             WA,Defy Seattle Tukwila,0.4
+DELAURENTI ITALIAN  INTERSEATTLE      WA,Delaurenti Italian Interseattle,0.4
+DENIMIO             heng bang shi bao tuKA,Denimio Heng Bang Shi Bao Tuka,0.4
+DESIGN MUSEUM SHOP PSINGAPORE           SG,Design Museum Shop Psingapore,0.4
+DIAMOND PARKING SERVICES 509-295-6490 WA,Diamond Parking Services - -,0.4
+DICK'S DRIVE IN BROASEATTLE             WA,Dick S Drive Broaseattle,0.4
+DICK'S DRIVE IN EDMONDS  EDMONDS      WA,Dick S Drive Edmonds Edmonds,0.4
+DICKS SPORTING GOODS1419 SEATTLE      WA,Dicks Sporting Goods Seattle,0.4
+DIPMAHALTAMEIKESANNOTOKYO               JP,Dipmahaltameikesannotokyo Jp,0.4
+DISCORD* NITROYEARLYSAN FRANCISCO       CA,Discord Nitroyearlysan Francisco,0.4
+DISCOUNT-TIRE-CO WASSEATTLE             WA,Discount-Tire-Co Wasseattle,0.4
+DROPPS                   WWW.DROPPS.COIL,Dropps Www Dropps Coil,0.4
+DTW CNBC SMARTSHOP       Detroit      MI,Dtw Cnbc Smartshop Detroit,0.4
+DTW MOD Pizza            Detroit      MI,Dtw Mod Pizza Detroit,0.4
+DUNHAMS 068              ALPENA       MI,Dunhams Alpena,0.4
+DUNN BELLEVUE,Dunn Bellevue,0.4
+DUNN GREENLAKE           SEATTLE      WA,Dunn Greenlake Seattle,0.4
+DUNN LAKE UNION SEATTLE WA,Dunn Lake Union Seattle,0.4
+DUNN LAKE UNION          SEATTLE      WA,Dunn Lake Union Seattle,0.4
+DUNN LUMBER         SEATTLE             WA,Dunn Lumber Seattle,0.4
+DUNN LUMBER CO      BELLEVUE            WA,Dunn Lumber Bellevue,0.4
+Dairy Queen,Dairy Queen,0.4
+Dick's Drive-In,Dick S Drive-In,0.4
+Dick's Sporting Goods,Dick S Sporting Goods,0.4
+Dicks Sporting Goods     Seattle      WA,Dicks Sporting Goods Seattle,0.4
+DoorDash,Doordash,0.4
+Dropps,Dropps,0.4
+Dsquared Hospitality Seattle,Dsquared Hospitality Seattle,0.4
+E.S. MUSAKOLA            MONDRAGON    ES,E S Musakola Mondragon Es,0.4
+EAGLE VISION CENTER JACKSON             WY,Eagle Vision Center Jackson,0.4
+EASYJET             LUTON               GB,Easyjet Luton Gb,0.4
+EB *OCTOBER H8TE 801-413-7200 CA,Eb October H Te - -,0.4
+EINSTEIN BROS BAGELS2171 SEATTLE WA,Einstein Bros Bagels Seattle,0.4
+EINSTEIN BROS BAGELS2171 SEATTLE      WA,Einstein Bros Bagels Seattle,0.4
+EINSTEIN BROS BAGELSSEATTLE             WA,Einstein Bros Bagelsseattle,0.4
+EIRAKUYA            KYOTO               JP,Eirakuya Kyoto Jp,0.4
+EL ANGEL PORTALES        LOGRONO      ES,El Angel Portales Logrono Es,0.4
+ELECTRONIC PAYMENT RECEIVED-THANK,Electronic Payment Received-Thank,0.4
+ELEPHANT CAR WASH        BELLEVUE     WA,Elephant Car Wash Bellevue,0.4
+ELTSA CUSTOM SEWING SEATTLE WA,Eltsa Custom Sewing Seattle,0.4
+ELTSA CUSTOM SEWING      SEATTLE      WA,Eltsa Custom Sewing Seattle,0.4
+END OF THE TRAIL IV ROCHESTER           WA,End Of The Trail Iv Rochester,0.4
+ENXALAO                  DONOSTIA     ES,Enxalao Donostia Es,0.4
+EPIC BARBER SHOP         SEATTLE      WA,Epic Barber Shop Seattle,0.4
+EPOCH.COM *PINKANDWH San FranciscoCA,Epoch Com Pinkandwh San Franciscoca,0.4
+ETEAMSPONSOR        CONCORD             CA,Eteamsponsor Concord,0.4
+"ETSY, INC.               718-8557955  NY",Etsy Inc -,0.4
+EVEVATED ICECREAM&CANDY  PORT TOWNSENDWA,Evevated Icecream Candy Port Townsendwa,0.4
+EVIDENCE BASED TREATMENT 206-3740109  WA,Evidence Based Treatment -,0.4
+EVO - SEATTLE SEATTLE WA,Evo - Seattle Seattle,0.4
+EXPEDIA 72063891554924   EXPEDIA.COM  NV,Expedia Expedia Com,0.4
+EXPEDIA 731180696530EXPEDIA.COM         WA,Expedia Expedia Com,0.4
+EXPEDIA 73119260004408   EXPEDIA.COM  WA,Expedia Expedia Com,0.4
+EXPEDIA 731432666940EXPEDIA.COM         WA,Expedia Expedia Com,0.4
+EXPEDIA 73181411974404   EXPEDIA.COM  WA,Expedia Expedia Com,0.4
+EXPEDIA 732451371614EXPEDIA.COM         WA,Expedia Expedia Com,0.4
+EXPEDIATSPUS        EXPEDIA.COM         WA,Expediatspus Expedia Com,0.4
+EXPEDITED SHIPPING FEE FOR 2068,Expedited Shipping Fee For,0.4
+EXPMONCAL                LOGRONO      ES,Expmoncal Logrono Es,0.4
+EXPO2025TICKETSITE OSAKA,Expo Ticketsite Osaka,0.4
+EXXONMOBIL 4594     ENNIS               MT,Exxonmobil Ennis,0.4
+EZELLS FAMOUS CHICKESEATTLE             WA,Ezells Famous Chickeseattle,0.4
+Einstein Bros. Bagels,Einstein Bros Bagels,0.4
+El Camion Sand Poi,El Camion Sand Poi,0.4
+Erlebnisdrogerie GmbH    Adelboden    CH,Erlebnisdrogerie Gmbh Adelboden Ch,0.4
+Etsy,Etsy,0.4
+Etsy.com - Chicamaze     844-6593879  NY,Etsy Com - Chicamaze -,0.4
+Etsy.com - Multiple Shop 844-6593879  NY,Etsy Com - Multiple Shop -,0.4
+Etsy.com - ProvenceDecor 844-6593879  NY,Etsy Com - Provencedecor -,0.4
+Evergreen Guardian,Evergreen Guardian,0.4
+Expedia,Expedia,0.4
+Ext Credit Card Credit 4297453                  AUTOPAYLANG*!01,Ext Credit Card Credit Autopaylang,0.4
+Ext Credit Card Credit PAYMENT - THANK YOU      BEAVERTON    OR,Ext Credit Card Credit Payment - Thank You Beaverton,0.4
+Ext Credit Card Debit 76 - THE POINT           SEATTLE      WA,Ext Credit Card Debit - The Point Seattle,0.4
+Ext Credit Card Debit ACTBLUE* EILEEN.LAUBAC   BOSTON       MA,Ext Credit Card Debit Actblue Eileen Laubac Boston,0.4
+Ext Credit Card Debit BANK OF AMERICA          SEATTLE      DC,Ext Credit Card Debit Bank Of America Seattle Dc,0.4
+Ext Credit Card Debit CASH ADVANCE             BEAVERTON    OR,Ext Credit Card Debit Cash Advance Beaverton,0.4
+Ext Credit Card Debit CL *TRIPCHARGES          GLEN ALLEN   VA,Ext Credit Card Debit Cl Tripcharges Glen Allen,0.4
+Ext Credit Card Debit CLEVER COW CREAMERY      EASTSOUND    WA,Ext Credit Card Debit Clever Cow Creamery Eastsound,0.4
+Ext Credit Card Debit COUNTRY MEADOWS GOLF C   RICHMOND     BC,Ext Credit Card Debit Country Meadows Golf C Richmond Bc,0.4
+Ext Credit Card Debit CSAIRP90 WDP90725042679  PARIS        FR,Ext Credit Card Debit Csairp Wdp Paris Fr,0.4
+Ext Credit Card Debit DENNY'S 03-023 KELOWNA   KELOWNA      BC,Ext Credit Card Debit Denny S - Kelowna Kelowna Bc,0.4
+Ext Credit Card Debit EXPEDIA HOTELCOM731800   UK.HOTELS.COMGB,Ext Credit Card Debit Expedia Hotelcom Hotels Comgb,0.4
+Ext Credit Card Debit EZELLS FAMOUS CHICKEN    SEATTLE      WA,Ext Credit Card Debit Ezells Famous Chicken Seattle,0.4
+Ext Credit Card Debit FATBURGER GUILDFORD VI   SURREY       BC,Ext Credit Card Debit Fatburger Guildford Vi Surrey Bc,0.4
+Ext Credit Card Debit FRANK'S GENERAL STORE    CHERRYVILLE  BC,Ext Credit Card Debit Frank S General Store Cherryville Bc,0.4
+Ext Credit Card Debit GNC                      SEATTLE      WA,Ext Credit Card Debit Gnc Seattle,0.4
+Ext Credit Card Debit HONK PARKING             866-675-7337 ON,Ext Credit Card Debit Honk Parking - - On,0.4
+Ext Credit Card Debit ISLAND MARKET            EASTSOUND    WA,Ext Credit Card Debit Island Market Eastsound,0.4
+Ext Credit Card Debit Interest Charge on Cash A,Ext Credit Card Debit Interest Charge On Cash A,0.4
+Ext Credit Card Debit Interest Charge on Purcha,Ext Credit Card Debit Interest Charge On Purcha,0.4
+Ext Credit Card Debit JOS ITALIAN DELI         VANCOUVER    BC,Ext Credit Card Debit Jos Italian Deli Vancouver Bc,0.4
+Ext Credit Card Debit LITTLE UMBRELLA          VANCOUVER    BC,Ext Credit Card Debit Little Umbrella Vancouver Bc,0.4
+Ext Credit Card Debit P462086                  SEATTLE      DC,Ext Credit Card Debit P Seattle Dc,0.4
+Ext Credit Card Debit PAON SURI                EASTSOUND    WA,Ext Credit Card Debit Paon Suri Eastsound,0.4
+Ext Credit Card Debit SAFEWAY #1551            SEATTLE      WA,Safeway,0.95
+Ext Credit Card Debit SAVE ON FOODS 2255       SURREY       BC,Ext Credit Card Debit Save On Foods Surrey Bc,0.4
+Ext Credit Card Debit SQ *DOWNLOW CHICKEN UB   VANCOUVER    BC,Ext Credit Card Debit Square Downlow Chicken Ub Vancouver Bc,0.4
+Ext Credit Card Debit SQ *ORCAS ADVENTURES &   OLGA         WA,Ext Credit Card Debit Square Orcas Adventures Olga,0.4
+Ext Credit Card Debit SQ *ORCAS ISLAND GOLF    EASTSOUND    WA,Ext Credit Card Debit Square Orcas Island Golf Eastsound,0.4
+Ext Credit Card Debit SQ *TAQUERIA AND PUPUS   EASTSOUND    WA,Ext Credit Card Debit Square Taqueria And Pupus Eastsound,0.4
+Ext Credit Card Debit TST*BIG MAX BURGER CO    SEATTLE      WA,Ext Credit Card Debit Tst Big Max Burger Seattle,0.4
+Ext Credit Card Debit TST*BOBS BURGER & BREW   BURLINGTON   WA,Ext Credit Card Debit Tst Bobs Burger Brew Burlington,0.4
+Ext Credit Card Debit VM PARKING GARAGE        SEATTLE      WA,Ext Credit Card Debit Vm Parking Garage Seattle,0.4
+Ext Credit Card Debit WA FISH & WILD LICENSE   OLYMPIA      WA,Ext Credit Card Debit Fish Wild License Olympia,0.4
+Ext Credit Card Debit WAFISH&WILDLIC-SVC*FEE   OLYMPIA      WA,Ext Credit Card Debit Wafish Wildlic-Svc Fee Olympia,0.4
+Ext Credit Card Debit ZG * RENTAPPLICATION     206-516-2265 WA,Ext Credit Card Debit Zg Rentapplication - -,0.4
+FAMILY MART         *                   JP,Family Mart Jp,0.4
+FAMILYMART               TOKYO        JP,Familymart Tokyo Jp,0.4
+FEDEX OFFIC51800051847   SEATTLE      WA,Fedex Offic Seattle,0.4
+FEDEX OFFICE        SEATTLE             WA,Fedex Office Seattle,0.4
+FIRE SOUL LIMITED LIda ban shi zhong yanOS,Fire Soul Limited Lida Ban Shi Zhong Yanos,0.4
+FISHERIES SUPPLY         SEATTLE      WA,Fisheries Supply Seattle,0.4
+FIVE GUYS WA 1027 QSSEATTLE             WA,Five Guys Qsseattle,0.4
+FLEURISH 65000000762SEATTLE             WA,Fleurish Seattle,0.4
+FLO SERVICES USA INC     WWW.FLO.COM  MI,Flo Services Usa Inc Www Flo Com,0.4
+FLOWER MATTERS-F3199SINGAPORE           SG,Flower Matters-F Singapore,0.4
+FRANK'S GENERAL STORE    CHERRYVILLE  CD,Frank S General Store Cherryville Cd,0.4
+FRED MEYERS         BELLEVUE            WA,Fred Meyers Bellevue,0.4
+FREDDYS BREWPUB          KELOWNA      CD,Freddys Brewpub Kelowna Cd,0.4
+FSP*SEATTLE BOULDERING PRSEATTLE      WA,Fsp Seattle Bouldering Prseattle,0.4
+FSP*SODO VISION CARE     SEATTLE      WA,Fsp Sodo Vision Care Seattle,0.4
+FULLSCRIPT* R588685504 HTTPSUS.FULLSNH,Fullscript R Httpsus Fullsnh,0.4
+FURETSUSHIYUMATOOKESUTOMONARA         JP,Furetsushiyumatookesutomonara Jp,0.4
+FURY CONSIGNMENT SEATTLE WA,Fury Consignment Seattle,0.4
+Fishermens Green Market,Fishermens Green Market,0.4
+Friction Gloves,Friction Gloves,0.4
+GADGET REHAB 00-0803SEATTLE             WA,Gadget Rehab - Seattle,0.4
+GADGET REHAB             SEATTLE      WA,Gadget Rehab Seattle,0.4
+GALBI BURGER BROADWAY SEATTLE WA,Galbi Burger Broadway Seattle,0.4
+GAME WORKS SEATTLE KIOSKSSEATTLE      WA,Game Works Seattle Kiosksseattle,0.4
+"GASOLEOS MARQUEZ, S.L.   ALMAZAN (SORIES",Gasoleos Marquez S L Almazan Sories,0.4
+GB* SEATTLE JAZZED       GIVEBUTTER.CODE,Gb Seattle Jazzed Givebutter Code,0.4
+GEKKEIKAN OKURAKINENKYOTO               JP,Gekkeikan Okurakinenkyoto Jp,0.4
+GEORGIA O'KEEFFE MUSEUM SANTA FE NM,Georgia O Keeffe Museum Santa Fe,0.4
+GESTORES DE DEPORTE Y DESSAN SEBASTIANES,Gestores Deporte Y Dessan Sebastianes,0.4
+GIFTS GREETINGS PTE SINGAPORE           SG,Gifts Greetings Pte Singapore,0.4
+GILL'S FOOD & GAS 18ENUMCLAW            WA,Gill S Food Gas Enumclaw,0.4
+GINREITAXI          KYOTO               JP,Ginreitaxi Kyoto Jp,0.4
+GIRL SCOUTS OF THE UNITED855-530-4467 NY,Girl Scouts Of The United - -,0.4
+GITHUB              SAN FRANCISCO       CA,Github San Francisco,0.4
+"GITHUB, INC.        SAN FRANCISCO       CA",Github Inc San Francisco,0.4
+GLANTA KYOTO SANJOKAWAR  KYOTO        JP,Glanta Kyoto Sanjokawar Kyoto Jp,0.4
+GLAZER'S CAMERA SEATTLE  WA       CREDIT,Glazer S Camera Seattle Credit,0.4
+GLAZER'S CAMERA          SEATTLE      WA,Glazer S Camera Seattle,0.4
+GLOBAL JEWISH FUTURE     FUTUREOFJEWISCA,Global Jewish Future Futureofjewisca,0.4
+GLOVER STREET MARKET     TWISP        WA,Glover Street Market Twisp,0.4
+GOODKNIGHTICE NARA SNARA                JP,Goodknightice Nara Snara Jp,0.4
+GOODWILL - SEATTLE.      SEATTLE      WA,Goodwill - Seattle Seattle,0.4
+GOOGLE *AllTrails com 855-836-3987 CA,Google Alltrails Com - -,0.4
+GOOGLE *CLOUD 3C872W     g.co/helppay#CA,Google Cloud C W G Helppay,0.4
+GOOGLE *CLOUD 4TM9zV     g.co/HelpPay#CA,Google Cloud Tm Zv G Helppay,0.4
+GOOGLE *CLOUD Dx3V98     g.co/HelpPay#CA,Google Cloud Dx V G Helppay,0.4
+GOOGLE *CLOUD Q6vC4L     g.co/helppay#CA,Google Cloud Q Vc L G Helppay,0.4
+GOOGLE *CLOUD ZS9XNz     g.co/HelpPay#CA,Google Cloud Zs Xnz G Helppay,0.4
+GOOGLE *CLOUD wB3WJ7     g.co/HelpPay#CA,Google Cloud Wb Wj G Helppay,0.4
+GOOGLE *Disney Mobile 855-836-3987 CA,Google Disney Mobile - -,0.4
+GOOGLE *Duolingo 855-836-3987 CA,Google Duolingo - -,0.4
+GOOGLE *Google Nest      855-836-3987 CA,Google Google Nest - -,0.4
+GOOGLE*CLOUD 75HWWL      G.CO/HELPPAY#CA,Google Cloud Hwwl G Helppay,0.4
+GOOGLE*CLOUD 7DHR2D      G.CO/HELPPAY#CA,Google Cloud Dhr D G Helppay,0.4
+GOOGLE*CLOUD KZXMRS      CC GOOGLE.COMCA,Google Cloud Kzxmrs Cc Google Comca,0.4
+GOOGLE*CLOUD XPCZC2      CC GOOGLE.COMCA,Google Cloud Xpczc Cc Google Comca,0.4
+GOSEA                    DONOSTIA     ES,Gosea Donostia Es,0.4
+GOURMET SARAWAK          SINGAPORE    SG,Gourmet Sarawak Singapore,0.4
+GRAB*A-7MH896PWWIBW8SINGAPORE           SG,Grab A- Mh Pwwibw Singapore,0.4
+GRAINGER                 800-4724643  IL,Grainger -,0.4
+GREPTILE            MIDDLETOWN          DE,Greptile Middletown,0.4
+GULF OIL 92068864        HUNTINGTON   OR,Gulf Oil Huntington,0.4
+Game Works,Game Works,0.4
+Game Works Seattle,Game Works Seattle,0.4
+GoFundMe Restore LearningGOFUNDME.COM CA,Gofundme Restore Learninggofundme Com,0.4
+Goodwill,Goodwill,0.4
+Google Cloud,Google Cloud,0.4
+Grain House Seattl,Grain House Seattl,0.4
+HAGGEN 3460              BELLINGHAM   WA,Haggen Bellingham,0.4
+HAHAHA AIR          OSAKA               JP,Hahaha Air Osaka Jp,0.4
+HAKONE KOWAKIEN TENY*                   JP,Hakone Kowakien Teny Jp,0.4
+HANGTAG PARKING          WWW.HANGTAG.IFL,Hangtag Parking Www Hangtag Ifl,0.4
+HARBOR FREIGHT TOOLS 377 SEATTLE      WA,Harbor Freight Tools Seattle,0.4
+HATTORI TAXI        OSAKA               JP,Hattori Taxi Osaka Jp,0.4
+HAWAIIAN AI 1734211890354SEATTLE WA,Hawaiian Ai Seattle,0.4
+HAWAIIAN AIRLINES HOHONOLULU,Hawaiian Airlines Hohonolulu,0.4
+HBO Max,Hbo Max,0.4
+HEALTHY PAWS PET INSUR   855-898-8991 GA,Peet's Coffee,0.8571428571428571
+HEALTHY PAWS PET INSUR   WWW.HEALTHYPAGA,Peet's Coffee,0.8571428571428571
+HEALTHY PAWS PET INSURAN TRACIM@HEALTHPA,Peet's Coffee,0.8571428571428571
+HI NY HOSTEL 139-222NEW YORK            NY,Hostel - New York,0.4
+HIGH TREK CHELAN         CHELAN       WA,High Trek Chelan Chelan,0.4
+HILTON SEATTLE FB        SEATTLE      WA,Hilton Seattle Fb Seattle,0.4
+HILTON SEATTLE PARKING   SEATTLE      WA,Hilton Seattle Parking Seattle,0.4
+HIST MUSEUM/PALACE OF GO 5054765101 NM,Hist Museum Palace Of Go,0.4
+HLU*HULUPLUS             hulu.com/billCA,Hlu Huluplus Hulu Com Billca,0.4
+HOLIDAY MARKET           BURLINGTON   WA,Holiday Market Burlington,0.4
+HOTEL ON BOOKING.COMAMSTERDAM           NL,Hotel On Booking Comamsterdam Nl,0.4
+HOTEL SILKEN PUERTA MA   MADRID       ES,Hotel Silken Puerta Madrid Es,0.4
+HOTWIRE REFRIGERATION    info.hotwire.WA,Hotwire Refrigeration Info Hotwire,0.4
+HP *INSTANT INK,Hp Instant Ink,0.4
+HP *INSTANT INK          855-785-2777 CA,Hp Instant Ink - -,0.4
+HP Instant Ink,Hp Instant Ink,0.4
+HUDSON ST 1479           SEATAC       WA,Hudson Street Seatac,0.4
+HUNGRYROOT.COM HUNGRYROOT.CONY,Hungryroot Com Hungryroot Cony,0.4
+HYATT AT OLIVE 8 F&B SEATTLE WA,Hyatt At Olive F B Seattle,0.4
+HYATT AT OLIVE 8 F&B     SEATTLE      WA,Hyatt At Olive F B Seattle,0.4
+Heartwoods Bonsai & Zseattle,Heartwoods Bonsai Zseattle,0.4
+Heinemann Duty Free/Fil.2Schonefeld   DF,Heinemann Duty Free Fil Schonefeld Df,0.4
+Hey Bagel,Hey Bagel,0.4
+Hulu,Hulu,0.4
+Hulu                     877-8244858  CA,Hulu -,0.4
+IC* INSTACART INSTACART.COMCA,Ic Instacart Instacart Comca,0.4
+IC* INSTACART*SUBSCRIP   INSTACART.COMCA,Ic Instacart Subscrip Instacart Comca,0.4
+IC* INSTACART            INSTACART.COMCA,Ic Instacart Instacart Comca,0.4
+IKON PASS 888-3654566 CO,Ikon Pass -,0.4
+IMPARK00010695U     VANCOUVER           CA,Impark U Vancouver,0.4
+IN *SHADES BY MARKHAM LLC425-4430156 WA,Shades By Markham Llc -,0.4
+IN *SYDNEY MARIE ARBORIST952-5945731  WA,Sydney Marie Arborist -,0.4
+IN *WRIGHT DESIGNS LLC   360-5727839  WA,Wright Designs Llc -,0.4
+INDIGO BC - LOT 034 VANCOUVER           CA,Indigo Bc - Lot Vancouver,0.4
+INTEGRITY ENERGY SYSTEM  425-4194676  WA,Integrity Energy System -,0.4
+INTEREST CHARGED ON PURCHASES,Interest Charged On Purchases,0.4
+INTERGLOBE AA3LPUW44430  GURGAON HARYAII,Interglobe Aa Lpuw Gurgaon Haryaii,0.4
+INTERGLOBE AE53W3Q55443  GURGAON HARYAII,Interglobe Ae W Q Gurgaon Haryaii,0.4
+INTERGLOBE AQZ3CVI46981  GURGAON HARYAII,Interglobe Aqz Cvi Gurgaon Haryaii,0.4
+INUA GROUP               WWW.INUA.GROUMT,Inua Group Www Inua Groumt,0.4
+IPPUDO - CHANGI T3       SINGAPORE    SG,Ippudo - Changi T Singapore,0.4
+ITALIAN FAMILY PIZZA     131-27305592 IL,Italian Family Pizza -,0.4
+ITALO MAX GMBH           WOHLEN AG    CH,Italo Max Gmbh Wohlen Ag Ch,0.4
+ITO-YA                   Tokyo        JP,Ito-Ya Tokyo Jp,0.4
+ITOYA HONTEN             TOKYO        JP,Itoya Honten Tokyo Jp,0.4
+Ian Windham,Ian Windham,0.4
+Instacart via Instacart,Instacart Via Instacart,0.4
+Interest Charge on Cash Advances,Interest Charge On Cash Advances,0.4
+Interest On Cash Advances,Interest On Cash Advances,0.4
+Interest on Cash Advances,Interest On Cash Advances,0.4
+Interest on Purchases,Interest On Purchases,0.4
+J'AIME LES CREPES  QPS,J Aime Les Crepes Qps,0.4
+JACK'S FISH SPOT         SEATTLE      WA,Jack S Fish Spot Seattle,0.4
+JACKSON PRK GOLF #720540 2063634747   WA,Jackson Prk Golf,0.4
+JAES ASIAN BISTRO AND SUSSEATTLE      WA,Jaes Asian Bistro And Susseattle,0.4
+JAMJUREE THAI            SEATTLE      WA,Jamjuree Thai Seattle,0.4
+JAPAN AIRPORT BLDG SHOP  TOKYO        JP,Japan Airport Bldg Shop Tokyo Jp,0.4
+"JARED MICHONSKI, PHD     HTTPSWWW.DRJAWA",Jared Michonski Phd Httpswww Drjawa,0.4
+JEBENA CAFE & MARKET LLC SEATTLE      WA,Jebena Cafe Market Llc Seattle,0.4
+JENNIFER LOOMIS PHOTSEATTLE             WA,Jennifer Loomis Photseattle,0.4
+JMS*YAGIBUTUGUTEN        KYOTO        JP,Jms Yagibutuguten Kyoto Jp,0.4
+JOHNNY ROCKETS (PACIFIC) SEATTLE      WA,Johnny Rockets Pacific Seattle,0.4
+JOLLIBEE                 SEATTLE      WA,Jollibee Seattle,0.4
+JOLLY PUMPKIN DTW        DETROIT      MI,Jolly Pumpkin Dtw Detroit,0.4
+JR CENTRAL          JAPAN               JP,Jr Central Japan Jp,0.4
+JR EAST SHOPPING CENTER  SIBUYAKU     JP,Jr East Shopping Center Sibuyaku Jp,0.4
+JR TOKAI TOURS KYOTOKYOTO               JP,Jr Tokai Tours Kyotokyoto Jp,0.4
+JR WEST             JAPAN               JP,Jr West Japan Jp,0.4
+JRC SMART EX        TOKYO               JP,Jrc Smart Ex Tokyo Jp,0.4
+JUDAICAWEBSTORE.COM WWW.JUDAICAWENY,Judaicawebstore Com Www Judaicaweny,0.4
+Jaes Asian Bistro Andseattle,Jaes Asian Bistro Andseattle,0.4
+Jamaican Me Crazy        MARGATE CITY NJ,Jamaican Crazy Margate City,0.4
+KANJI HANNKO MAKUDOUNARA                JP,Kanji Hannko Makudounara Jp,0.4
+KARAKU -KYOTO-SHI KY*                   JP,Karaku -Kyoto-Shi Jp,0.4
+KARRIKA TABERNA          DONOSTIA     ES,Karrika Taberna Donostia Es,0.4
+KATHAKALI AN INDIAN EATERKIRKLAND     WA,Kathakali An Indian Eaterkirkland,0.4
+KATO                TOKYO               JP,Kato Tokyo Jp,0.4
+KATSU BURGER & BAR       SEATTLE      WA,Katsu Burger Bar Seattle,0.4
+KATTERMANS SAND POINSEATTLE             WA,Kattermans Sand Poinseattle,0.4
+KATTERMANS SAND POINT PHASEATTLE WA,Kattermans Sand Point Phaseattle,0.4
+KATTERMANS SAND POINT PHASEATTLE      WA,Kattermans Sand Point Phaseattle,0.4
+KENMORE CAMERA           KENMORE      WA,Kenmore Camera Kenmore,0.4
+KINJIHARAJYUKUTAKESHTOKYO               JP,Kinjiharajyukutakeshtokyo Jp,0.4
+KIOSKSHINAGAWAKANSENTOKYO               JP,Kioskshinagawakansentokyo Jp,0.4
+KITCHEN & MARKET-MADISON SEATTLE WA,Kitchen Market-Madison Seattle,0.4
+KIWI.COM 524335     BRNO                CZ,Kiwi Com Brno Cz,0.4
+"KOMATSU SHOJI, K.K. chuan kou shi       SA",Komatsu Shoji K K Chuan Kou Shi Sa,0.4
+KRUSE MEADOWS ONPOINT CU LAKE OSWEGO  OR,Kruse Meadows Onpoint Cu Lake Oswego,0.4
+KURA SUSHI          TOKYO               JP,Kura Sushi Tokyo Jp,0.4
+KUROCHIKU           KYOTO               JP,Kurochiku Kyoto Jp,0.4
+"KYOTO ARTS, LLC          SEATTLE      WA",Kyoto Arts Llc Seattle,0.4
+Kate Grossman Md Pllc,Kate Grossman Pllc,0.4
+Kattermans Sand Point,Kattermans Sand Point,0.4
+Kattermans Sand Point Pha,Kattermans Sand Point Pha,0.4
+Kindle Svcs*7W2RQ5QE3    888-802-3080 WA,Kindle Svcs W Rq Qe - -,0.4
+Kiosk                    Berlin       DF,Kiosk Berlin Df,0.4
+LASTPASS.COM        BOSTON              MA,Lastpass Com Boston,0.4
+LATE FEE,Late Fee,0.4
+LATE FEE FOR PAYMENT DUE,Late Fee For Payment Due,0.4
+LAURELHURST BEACH CLUB   206-5242010  WA,Laurelhurst Beach Club -,0.4
+LAVANDERIA OPEN BLUE LOGRONO,Lavanderia Open Blue Logrono,0.4
+LAVANDERIA OPEN BLUE     LOGRONO      ES,Lavanderia Open Blue Logrono Es,0.4
+LAWRENCE ZANE HUPPIN DPM 206-3443808 WA,Lawrence Zane Huppin Dpm -,0.4
+LAWSON              *                   JP,Lawson Jp,0.4
+LAWSON                   TOKYO        JP,Lawson Tokyo Jp,0.4
+LAZ PARKING ECOMMERCE    860-522-7641 CT,Laz Parking Ecommerce - -,0.4
+LAZ PARKING M28309       SEATTLE      WA,Laz Parking M Seattle,0.4
+LE MERIDIEN KOCHI FRON   ERNAKULAM    II,Le Meridien Kochi Fron Ernakulam Ii,0.4
+LEE'S SUMMIT DELI & SNOQUALMIE PS       WA,Lee S Summit Deli Snoqualmie Ps,0.4
+LEMERIDIEN KOCHI         ERNAKULAM    II,Lemeridien Kochi Ernakulam Ii,0.4
+LERNER FAMILY CAFE SEATTLE WA,Lerner Family Cafe Seattle,0.4
+LEUCHARS            GLASGOW             GB,Leuchars Glasgow Gb,0.4
+LEV HAOLAM.COM SBUT RAHEL,Lev Haolam Com Sbut Rahel,0.4
+LIBRO.FM AUDIOBOOKS      413-206-9290 WA,Libro Fm Audiobooks - -,0.4
+LIME*RIDE W6WR           LI.ME        CA,Lime Ride W Wr Li,0.4
+LINKEDINPRE *1747913LNKD.IN/BILL        CA,Linkedinpre Lnkd Bill,0.4
+LINKEDINPRE *4479848LNKD.IN/BILL        CA,Linkedinpre Lnkd Bill,0.4
+LINKEDINPRE *5868230MOUNTAIN VIEW,Linkedinpre Mountain View,0.4
+LINKEDINPRE *7915122LNKD.IN/BILL        CA,Linkedinpre Lnkd Bill,0.4
+LINKEDINPRE *9533806MOUNTAIN VIEW,Linkedinpre Mountain View,0.4
+LINKEDINPREC *110476MOUNTAIN VIEW,Linkedinprec Mountain View,0.4
+LINKEDINPREC *228987MOUNTAIN VIEW,Linkedinprec Mountain View,0.4
+LINKEDINPREC *375223MOUNTAIN VIEW,Linkedinprec Mountain View,0.4
+LINKEDINPREC *552653MOUNTAIN VIEW,Linkedinprec Mountain View,0.4
+LINKEDINPREC *679157MOUNTAIN VIEW,Linkedinprec Mountain View,0.4
+LINKEDINPREC *797030MOUNTAIN VIEW,Linkedinprec Mountain View,0.4
+LIRR STATION TIX    JAMAICA             NY,Lirr Station Tix Jamaica,0.4
+"LISA A. EMERSON, PHD     LINKEDIN.COM/WA",Lisa A Emerson Phd Linkedin Com,0.4
+LITTLE DUCK              120-66952564 WA,Little Duck -,0.4
+LNE RAILWAY KGX STN LONDON              GB,Lne Railway Kgx Stn London Gb,0.4
+LOWE'S OF NORTH SEATSEATTLE             WA,Lowe S Of North Seatseattle,0.4
+LS JRA BIKE SHOP    SEATTLE             WA,Ls Jra Bike Shop Seattle,0.4
+LS LAUGHING BUDDHA       120-63298274 WA,Ls Laughing Buddha -,0.4
+LS MONTLAKE BICYCLE S 186-69321801 WA,Ls Montlake Bicycle S -,0.4
+LS ST ANDREWS LINKS ST ANDREWS          FI,Ls Street Andrews Links Street Andrews Fi,0.4
+LUFTHAN     2204087702866NEW YORK     NY,Lufthan New York,0.4
+LUFTHAN     2204088682200NEW YORK     NY,Lufthan New York,0.4
+LUZERN SOLUTIONS LLC     415-429-3880 TX,Luzern Solutions Llc - -,0.4
+LYFT   *1 RIDE 04-18     LYFT.COM     CA,Lyft Ride - Lyft Com,0.4
+LYSA MODA Y COMPLEMENTOS MADRID       ES,Lysa Moda Y Complementos Madrid Es,0.4
+Lagardere Fil. 272       Frankfurt am DF,Lagardere Fil Frankfurt Am Df,0.4
+Libro.fm,Libro Fm,0.4
+Lnvm,Lnvm,0.4
+M S HARRISONS MALAYALAM  ERNAKULAM    II,M S Harrisons Malayalam Ernakulam Ii,0.4
+M S HARRISONS MALAYALAM  IDUKKI       II,M S Harrisons Malayalam Idukki Ii,0.4
+MA'ONO U VILLAGE    Seattle             WA,Ono U Village Seattle,0.4
+MAD PIZZA                SEATTLE      WA,Mad Pizza Seattle,0.4
+MAISENDO GIONTEN    KYOTO               JP,Maisendo Gionten Kyoto Jp,0.4
+MAPLE FUELS WASH A TON   MAPLE FALLS  WA,Maple Fuels Wash A Ton Maple Falls,0.4
+MAPLE LEAF ACE 0000 SEATTLE             WA,Maple Leaf Ace Seattle,0.4
+MAPLE LEAF ACE SEATTLE WA,Maple Leaf Ace Seattle,0.4
+MAPLE LEAF ACE           SEATTLE      WA,Maple Leaf Ace Seattle,0.4
+MARIA ESTHER MARTINEZ    DONOSTIA SAN ES,Maria Esther Martinez Donostia San Es,0.4
+MARLAI FINE THAI CUISINE SEATTLE      WA,Marlai Fine Thai Cuisine Seattle,0.4
+MARUMARU                 NARA         JP,Marumaru Nara Jp,0.4
+MASHSG SINGAPORE,Mashsg Singapore,0.4
+MAX UND MORITZ           BERLIN       DF,Max Und Moritz Berlin Df,0.4
+MCDONALD'S          NORTH BEND          WA,McDonald's,0.95
+MCDONALD'S               TOKYO        JP,McDonald's,0.95
+MCMASTER-CARR            630-834-9600 IL,Mcmaster-Carr - -,0.4
+MDSEELIG                 MDSEELIG.COM WA,Mdseelig Mdseelig Com,0.4
+MENB529 MENCHIES QUEEN   SEATTLE      WA,Menb Menchies Queen Seattle,0.4
+MESA VERDE NATIONAL MESA VERDE NA       CO,Mesa Verde National Mesa Verde Na,0.4
+METHOW VALLEY CIDERHOUSE WINTHROP     WA,Methow Valley Ciderhouse Winthrop,0.4
+METROPOLIS PARKING       METROPOLIS.IOTN,Metropolis Parking Metropolis Iotn,0.4
+METROPOLITAN CAFE & DELI SEATTLE      WA,Metropolitan Cafe Deli Seattle,0.4
+METROPOLITAN MARKETSSEATTLE             WA,Metropolitan Marketsseattle,0.4
+METROPOLITAN MARKET      KIRKLAND     WA,Metropolitan Market Kirkland,0.4
+METROPOLITAN MKT 15 SEATTLE WA,Metropolitan Market Seattle,0.4
+METROPOLITAN MKT 15      SEATTLE      WA,Metropolitan Market Seattle,0.4
+MICROSOFT*XBOX      MSBILL.INFO,Microsoft Xbox Msbill Info,0.4
+MIGADU.COM EMAIL SRVSCHACHEN B. REUTE   ZH,Migadu Com Email Srvschachen B Reute Zh,0.4
+MIGAKU SEATTLE WA,Migaku Seattle,0.4
+MIKONOS GRAN VIA LOGRONO,Mikonos Gran Via Logrono,0.4
+MOBILE PAYMENT - THANK YOU,Mobile Payment - Thank You,0.4
+MOBILE SUICA APPLE V     TOKYO        JP,Mobile Suica Apple V Tokyo Jp,0.4
+MOD PIZZA BARKLEY        BELLINGHAM   WA,Mod Pizza Barkley Bellingham,0.4
+MODMEDUS_MP*TETON ORJACKSON             WY,Modmedus Mp Teton Orjackson,0.4
+MONICA'S TLC GROOMINSEATTLE             WA,Monica S Tlc Groominseattle,0.4
+MONTANA ACE - EASTGATE   MISSOULA     MT,Montana Ace - Eastgate Missoula,0.4
+MPIX 620-231-8050 KS,Mpix - -,0.4
+MS* NO.1APARTMENTS-ST    GLASGOW      GB,No Apartments-St Glasgow Gb,0.4
+MTNGEAR                  120-64662233 WA,Mtngear -,0.4
+MUD BAY UNIVERSITY VILLAGSEATTLE WA,Mud Bay University Villagseattle,0.4
+MUD BAY UNIVERSITY VILLAGSEATTLE      WA,Mud Bay University Villagseattle,0.4
+MUNNAR SPICE PALACE      IDUKKI       II,Munnar Spice Palace Idukki Ii,0.4
+Max,Max,0.4
+Mdseelig,Mdseelig,0.4
+Menchie's Frozen Yogurt,Menchie S Frozen Yogurt,0.4
+Metropolitan Market,Metropolitan Market,0.4
+Mioposto Eastlake,Mioposto Eastlake,0.4
+Monica's Grooming,Monica S Grooming,0.4
+Mud Bay Pet Supplies,Peet's Coffee,0.8571428571428571
+My Favorite Deli,My Favorite Deli,0.4
+NAVAJO NATION MONUMENT VAMONUMENT VALLUT,Navajo Nation Monument Vamonument Vallut,0.4
+NETFLIX.COM              NETFLIX.COM  CA,Netflix Com Netflix Com,0.4
+NIKKOUMARUSHOKUDOU PKANAGAWA            JP,Nikkoumarushokudou Pkanagawa Jp,0.4
+NISHINO             SEATTLE             WA,Nishino Seattle,0.4
+NJT-PAYGO - OR170008ORANGE              NJ,Njt-Paygo - Orange,0.4
+NOCHE Y DIA GRAN VIA 67  LOGRONO      ES,Noche Y Dia Gran Via Logrono Es,0.4
+NORDLAND GENERAL STORE,Nordland General Store,0.4
+NORDRACKCOM8889666283 888-966-6283 CA,Nordrackcom - -,0.4
+NORDSTROM DIRECT #0808 800-285-5800 IA,Nordstrom Direct - -,0.4
+NORDSTROM RACK #138 BELLEVUE WA,Nordstrom Rack Bellevue,0.4
+NORDSTROM#1 SEATTLE WA,Nordstrom Seattle,0.4
+NORTH LAKE MARINA        425-487-2676 WA,North Lake Marina - -,0.4
+NORWEGIAN AIR S,Norwegian Air S,0.4
+NYCT PAYGO          NEW YORK            NY,Nyct Paygo New York,0.4
+NYTIMES* 800-698-4637 NY,Nytimes - -,0.4
+NYTimes.COM NY TIMES(800)698-4637       NY,Nytimes Com Times -,0.4
+Netflix,Netflix,0.4
+Netflix.com              408-5403700  CA,Netflix Com -,0.4
+Netflix.com              netflix.com  CA,Netflix Com Netflix Com,0.4
+Netflix                  1 8445052993 CA,Netflix,0.4
+Nick,Nick,0.4
+North Lake Marina,North Lake Marina,0.4
+Nourish Foods,Nourish Foods,0.4
+O'REILLY 2527            SEATTLE      WA,O Reilly Seattle,0.4
+O'Reilly Auto Parts,O Reilly Auto Parts,0.4
+OBUBUTEA AIR        KYOTO               JP,Obubutea Air Kyoto Jp,0.4
+OHORI'S COFFEE SANTA FE NM,Ohori S Coffee Santa Fe,0.4
+ONLINE PAYMENT - THANK YOU,Online Payment - Thank You,0.4
+ONLY YOU HOTEL ATOCHA    MADRID       ES,Only You Hotel Atocha Madrid Es,0.4
+OPENAI              SAN FRANCISCO       CA,Openai San Francisco,0.4
+OPENAI *CHATGPT SUBSSAN FRANCISCO       CA,Openai Chatgpt Subssan Francisco,0.4
+OPENAI* CHATGPT CREDSAN FRANCISCO       CA,Openai Chatgpt Credsan Francisco,0.4
+OPTUM CARE WA MY CHART   425-258-3900 WA,Optum Care My Chart - -,0.4
+ORCA                     888-988-6722 WA,Orca - -,0.4
+ORCA                     8889886722   WA,Orca,0.4
+ORIENTAL SUPERMARKET     KELOWNA      CD,Oriental Supermarket Kelowna Cd,0.4
+OSAKA CASTLE        OSAKA               JP,Osaka Castle Osaka Jp,0.4
+Oester Sport AG          Adelboden    CH,Oester Sport Ag Adelboden Ch,0.4
+Olympic Equipment Rentals,Olympic Equipment Rentals,0.4
+PAGLIACCI MADISON        SEATTLE      WA,Pagliacci Madison Seattle,0.4
+PAGLIACCI SAND POINT     206-726-1717 WA,Pagliacci Sand Point - -,0.4
+PAGLIACCI SAND POINT     SEATTLE      WA,Pagliacci Sand Point Seattle,0.4
+PAMPANO EVENTOS          LOGRONO      ES,Pampano Eventos Logrono Es,0.4
+PAMPER HAUS              415-754-0166 CA,Pamper Haus - -,0.4
+PARKING OKENDO-PAGO EMV  DONOSTIA-SAN ES,Parking Okendo-Pago Emv Donostia-San Es,0.4
+PATAGONIA           VENTURA             CA,Patagonia Ventura,0.4
+PATH TAPP PAYGO CP  NEW JERSEY          NJ,Path Tapp Paygo Cp New Jersey,0.4
+PAYBYPHONE DIAMOND PAR   877-6102054  WA,Paybyphone Diamond Par -,0.4
+PAYPAL *80 20 INC        260-248-8030 IN,Paypal Inc - -,0.4
+PAYPAL *ARSENIC ANY 4029357733          VT,Paypal Arsenic Any,0.4
+PAYPAL *ARSENIC ANY 518-727-8838 VT,Paypal Arsenic Any - -,0.4
+PAYPAL *ARSENIC ANY 5187278838          VT,Paypal Arsenic Any,0.4
+PAYPAL *ARSENIC ANY AR 4029357733 CA,Paypal Arsenic Any,0.4
+PAYPAL *ARSENIC ANY AR 4029357733 VT,Paypal Arsenic Any,0.4
+PAYPAL *ARSENIC ANY ARSEN402-935-7733 CA,Paypal Arsenic Any Arsen - -,0.4
+PAYPAL *ARSENIC ANY ARSEN402-935-7733 VT,Paypal Arsenic Any Arsen - -,0.4
+PAYPAL *ATLANTICBRI      8005332210   NY,Paypal Atlanticbri,0.4
+PAYPAL *B H PHOTO   8002215743          NY,Paypal B H Photo,0.4
+PAYPAL *BAMBULABUSA 512-915-9986 TX,Paypal Bambulabusa - -,0.4
+PAYPAL *BLACKSTRAP BLACKS402-935-7733 OR,Paypal Blackstrap Blacks - -,0.4
+PAYPAL *BLUEBIRDGRA      509-996-3526 WA,Paypal Bluebirdgra - -,0.4
+PAYPAL *CHEWY INC        402-935-7733 FL,Paypal Chewy Inc - -,0.4
+PAYPAL *CLOUDFLARE  4029357733          CA,Paypal Cloudflare,0.4
+PAYPAL *DR BRONNERS DR BR402-935-7733 CA,Paypal Dr Bronners Dr Br - -,0.4
+PAYPAL *DROPPS           402-935-7733 IL,Paypal Dropps - -,0.4
+PAYPAL *EBAY US 786-762-515 CA,Paypal Ebay - -,0.4
+PAYPAL *EBAY US          786-762-515  CA,Paypal Ebay - -,0.4
+PAYPAL *EBAY US          786762515    CA,Paypal Ebay,0.4
+PAYPAL *ETSY INC    4029357733          NY,Paypal Etsy Inc,0.4
+PAYPAL *ETSY INC    8446593879          NY,Paypal Etsy Inc,0.4
+PAYPAL *ETSY INC SAN JOSE NY,Paypal Etsy Inc San Jose,0.4
+PAYPAL *ETSY INC         402-935-7733 NY,Paypal Etsy Inc - -,0.4
+PAYPAL *ETSY INC         4029357733   CA,Paypal Etsy Inc,0.4
+PAYPAL *EURO PRO         402-935-7733 MA,Paypal Euro Pro - -,0.4
+PAYPAL *EVO 2068199672 WA,Paypal Evo,0.4
+PAYPAL *FANDANGO    8668575191          CA,Paypal Fandango,0.4
+PAYPAL *FANDANGO 866-857-5191 CA,Paypal Fandango - -,0.4
+PAYPAL *HBOMAX HELP.HBOMA402-935-7733 NY,Paypal Hbomax Help Hboma - -,0.4
+PAYPAL *HOME DEPOT       402-935-7733 GA,Paypal Home Depot - -,0.4
+PAYPAL *HUEL 402-935-7733 NY,Paypal Huel - -,0.4
+PAYPAL *IEFSPACESPT 91051816,Paypal Iefspacespt,0.4
+PAYPAL *JINUOKEJM9S      4029357733   HK,Paypal Jinuokejm S Hk,0.4
+PAYPAL *LABORATORYC      8002227566   NC,Paypal Laboratoryc,0.4
+PAYPAL *LIME RIDE IB4029357733          CA,Paypal Lime Ride Ib,0.4
+PAYPAL *LITB             4029357733   HK,Paypal Litb Hk,0.4
+PAYPAL *MACNAUGHT U MACNA813-628-5506 FL,Paypal Macnaught U Macna - -,0.4
+PAYPAL *MADRASCARTL      402-935-7733 CA,Paypal Madrascartl - -,0.4
+PAYPAL *MOUSPRODUCT 35314369001,Paypal Mousproduct,0.4
+PAYPAL *MSNOW MSNOW 4029357733          MI,Paypal Msnow Msnow,0.4
+PAYPAL *ONSENBOY         402-935-7733 CA,Paypal Onsenboy - -,0.4
+PAYPAL *PANTHER RV PANTHE402-935-7733 WA,Paypal Panther Rv Panthe - -,0.4
+PAYPAL *PATHSPEAKSP      7162130350   NY,Paypal Pathspeaksp,0.4
+PAYPAL *PETSNOWY         402-935-7733 CA,Paypal Petsnowy - -,0.4
+PAYPAL *PUGETSOUNDE      4029357733   WA,Paypal Pugetsounde,0.4
+PAYPAL *QUAD LOCK   4029357733          AU,Paypal Quad Lock Au,0.4
+PAYPAL *REGALCINEMA 8778355734          TN,Paypal Regalcinema,0.4
+PAYPAL *REI         4252788570          WA,Paypal Rei,0.4
+PAYPAL *RITIK            402-935-7733 CA,Paypal Ritik - -,0.4
+PAYPAL *STANCE 949-391-9030 CA,Paypal Stance - -,0.4
+PAYPAL *STATEBANKIN      2227535771   SG,Paypal Statebankin,0.4
+PAYPAL *STEAM GAMES 4259522985          WA,Paypal Steam Games,0.4
+PAYPAL *SVALBOARD SVALBOA402-935-7733 CA,Paypal Svalboard Svalboa - -,0.4
+PAYPAL *SYDNEY.MARIEJO   402-935-7733 CA,Paypal Sydney Mariejo - -,0.4
+PAYPAL *TRAINLINE        07725264272  GB,Paypal Trainline Gb,0.4
+PAYPAL *TRYHACKME 35314369001,Paypal Tryhackme,0.4
+PAYPAL *UNICYCLE 6784944962 GA,Paypal Unicycle,0.4
+PAYPAL *VISHNU FREE 4029357733          UT,Paypal Vishnu Free,0.4
+PAYPAL *VISHNUFREES 4029357733 CA,Paypal Vishnufrees,0.4
+PAYPAL *WAKAKUSA CU WAKAK402-935-7733 CA,Paypal Wakakusa Cu Wakak - -,0.4
+PAYPAL *WHITE TOP A WHITE4029357733   CA,Paypal White Top A White,0.4
+PAYPAL *WORLDFOOTBA 9708709898          CO,Paypal Worldfootba,0.4
+PAYPAL *WORLDPACKER 786-897-1926 FL,Paypal Worldpacker - -,0.4
+PCC - BURIEN             BURIEN       WA,Pcc - Burien Burien,0.4
+PCC - VIEW RIDGE SEATTLE WA,Pcc - View Ridge Seattle,0.4
+PCC - VIEW RIDGE         SEATTLE      WA,Pcc - View Ridge Seattle,0.4
+PEKING GARDEN AG         ZUERICH      CH,Peking Garden Ag Zuerich Ch,0.4
+PHO EVER LLC             BELLEVUE     WA,Pho Ever Llc Bellevue,0.4
+PHO SHIZZLE LLC 00-0SEATTLE             WA,Pho Shizzle Llc - Seattle,0.4
+PHOTAIR 18               FRANKFURT    DF,Photair Frankfurt Df,0.4
+PIE FOR THE PEOPLE NSNOQUALMIE PASS     WA,Pie For The People Nsnoqualmie Pass,0.4
+PIKE&PINE ST2275         SEATTLE      WA,Pike Pine Street Seattle,0.4
+PLAID PANTRY #309        SEATTLE      WA,Plaid Pantry Seattle,0.4
+PLUSTABENTOKYOTOKANSKYOTO               JP,Plustabentokyotokanskyoto Jp,0.4
+POKE ALICE 2 SEATTLE WA,Poke Alice Seattle,0.4
+POKEMON CENTER TOKYOTOKYO               JP,Pokemon Center Tokyotokyo Jp,0.4
+POPEYES 13798 1379  GRAHAM              WA,Popeyes Graham,0.4
+POSH PAWS                SEATTLE      WA,Posh Paws Seattle,0.4
+PP*LAURELHURST BEACH CLUBSEATTLE      WA,Pp Laurelhurst Beach Clubseattle,0.4
+PP*NORDISCOCOR           8476471424   IL,Pp Nordiscocor,0.4
+PREMIUM PARKING P551SEATTLE             WA,Premium Parking P Seattle,0.4
+PRIME PARKING SYSTEMS LL RENTON       WA,Prime Parking Systems Ll Renton,0.4
+PRO SKI SEATTLE     SEATTLE             WA,Pro Ski Seattle Seattle,0.4
+PROCLUB BELLEVUE         BELLEVUE     WA,Proclub Bellevue Bellevue,0.4
+PROGRESSIVE *INSURANCE   800-776-4737 OH,Progressive Insurance - -,0.4
+PUBLIC HOUSE RITZ        NARA         JP,Public House Ritz Nara Jp,0.4
+PUGET SOUND ENERGY INC   888-225-5773 WA,Puget Sound Energy Inc - -,0.4
+PURE FOOD FISH MARKET    SEATTLE      WA,Pure Food Fish Market Seattle,0.4
+PURPLE INNOVATION LLLEHI                UT,Purple Innovation Lllehi,0.4
+PY *B&E MEATS AND SEAFOODSEATTLE      WA,Py B E Meats And Seafoodseattle,0.4
+PY *ONSITE NEWS 0000PHILADELPHIA        PA,Py Onsite News Philadelphia,0.4
+PY *RANCHO SEDONA RV PARKSEDONA       AZ,Py Rancho Sedona Rv Parksedona,0.4
+PY *RANCHO SEDONA RVSEDONA              AZ,Py Rancho Sedona Rvsedona,0.4
+PY *TACO DEL MAR - AAUBURN              WA,Texaco,0.8
+Pagliacci Madison,Pagliacci Madison,0.4
+"ParkWhiz, Inc.           Chicago      IL",Parkwhiz Inc Chicago,0.4
+PayByPhone Parking,Paybyphone Parking,0.4
+Peony,Peony,0.4
+Pike Place Market Pda,Pike Place Market Pda,0.4
+Pilot Flying J,Pilot Flying J,0.4
+Portland Ultimate Flyportland,Portland Ultimate Flyportland,0.4
+Prime Video *ZD7N08B62   888-802-3080 WA,Prime Video Zd N B - -,0.4
+Prime Video *ZG4NX6QF0   888-802-3080 WA,Prime Video Zg Nx Qf - -,0.4
+Prime Video *ZP4IK6970   888-802-3080 WA,Prime Video Zp Ik - -,0.4
+Pro Ski,Pro Ski,0.4
+Pureforyou Cout,Pureforyou Cout,0.4
+QFC                 SEATTLE             WA,Qfc Seattle,0.4
+QFC #5807 SEATTLE WA,Qfc Seattle,0.4
+QFC #5807                SEATTLE      WA,Qfc Seattle,0.4
+QFC #5838                KIRKLAND     WA,Qfc Kirkland,0.4
+QFC #5866 SEATTLE WA,Qfc Seattle,0.4
+QFC #5872                SEATTLE      WA,Qfc Seattle,0.4
+QFC - SOUND VIEW    SEATTLE             WA,Qfc - Sound View Seattle,0.4
+QUANTUM FIBER,Quantum Fiber,0.4
+QUANTUM FIBER            833-250-6306 LA,Quantum Fiber - -,0.4
+QUICKEN INC 650-250-1900 CA,Quicken Inc - -,0.4
+QUIZLET.COM         510-495-6550        CA,Quizlet Com - -,0.4
+Quality Food Centers,Quality Food Centers,0.4
+Quantum Fiber,Quantum Fiber,0.4
+R&R PRODUCTS             520-8893593  AZ,R R Products -,0.4
+RAKUTENPAY CARAMELBISCUITNARA         JP,Rakutenpay Caramelbiscuitnara Jp,0.4
+RAVENNA ANIMAL HOSPITAL  SEATTLE      WA,Ravenna Animal Hospital Seattle,0.4
+RED LIGHT                SEATTLE      WA,Red Light Seattle,0.4
+RED ROBIN NO 12 SEATTLE WA,Red Robin No Seattle,0.4
+REG THORNTON 14  193SEATTLE             WA,Reg Thornton Seattle,0.4
+REI #11 SEATTLE     SEATTLE             WA,Rei Seattle Seattle,0.4
+REI #11 SEATTLE          SEATTLE      WA,Rei Seattle Seattle,0.4
+REMARKABLE          OSLO                OS,Remarkable Oslo Os,0.4
+REMARKABLE OSLO,Remarkable Oslo,0.4
+RENEWAL MEMBERSHIP FEE,Renewal Membership Fee,0.4
+RESTAURANT CHEF PILLAI   ERNAKULAM    II,Restaurant Chef Pillai Ernakulam Ii,0.4
+RESTAURANTE EL MANA      LOGRONO      ES,Restaurante El Mana Logrono Es,0.4
+RESTAURANTE MONTYS       MADRID       ES,Restaurante Montys Madrid Es,0.4
+RESTAURANTE TAL CUAL     LOGRONO      ES,Restaurante Tal Cual Logrono Es,0.4
+RF *MDSEELIG             206-456-2500 WA,Rf Mdseelig - -,0.4
+RIDGE PIZZA              SEATTLE      WA,Ridge Pizza Seattle,0.4
+RIO BRAVO 0688800220NORTH BEND          WA,Rio Bravo North Bend,0.4
+ROOSEVELT VISION ROOSEATTLE             WA,Roosevelt Vision Rooseattle,0.4
+RP* SUMMIT AT SNOQUALM ROVERPASS.COMTX,Rp Summit At Snoqualm Roverpass Comtx,0.4
+RUELALA*MMSMOORSLQ RUELALA.COM MA,Ruelala Mmsmoorslq Ruelala Com,0.4
+RUELALA*MMSQOQQPNT RUELALA.COM MA,Ruelala Mmsqoqqpnt Ruelala Com,0.4
+RUELALA*MMTMNQRMTU RUELALA.COM MA,Ruelala Mmtmnqrmtu Ruelala Com,0.4
+RV TOWN 436845559151EASTON              WA,Rv Town Easton,0.4
+Raccolto,Raccolto,0.4
+Ridge,Ridge,0.4
+Rockler WW  Hdwe 02      Seattle      WA,Rockler Ww Hdwe Seattle,0.4
+Rudy's,Rudy S,0.4
+S       A                206-3236600  WA,S A -,0.4
+SAAS GAME TICKET         WWW.SEATTLEACWA,Saas Game Ticket Www Seattleacwa,0.4
+SAFEWAY #0423            SEATTLE      WA,Safeway,0.95
+SAFEWAY #0494 0494  ENUMCLAW            WA,Safeway,0.95
+SAFEWAY #1207            SEDONA       AZ,Safeway,0.95
+SAFEWAY #1493 SEATAC WA,Safeway,0.95
+SAFEWAY #1528 1528  NORTH BEND          WA,Safeway,0.95
+SAFEWAY #1551 SEATTLE WA,Safeway,0.95
+SAFEWAY #1589            LEAVENWORTH  WA,Safeway,0.95
+SAFEWAY #1665 1665  REDMOND             OR,Safeway,0.95
+SAFEWAY 3275             SEATTLE      WA,Safeway,0.95
+SAFEWAY FOOD STORE  ISSAQUAH            WA,Safeway,0.95
+SAFEWAY FUEL STATIONARLINGTON           WA,Safeway,0.95
+SAFEWAY FUEL0534         ARLINGTON    WA,Safeway,0.95
+SAILY INC.          LEWES               DE,Saily Inc Lewes,0.4
+SAND POINT GRILL SEATTLE WA,Sand Point Grill Seattle,0.4
+SANDORATSUGU             FUCHU        JP,Sandoratsugu Fuchu Jp,0.4
+SANTO COFFEE CO.         SEATTLE      WA,Santo Coffee Seattle,0.4
+SARAHS HAND EMBROIDERY   ERNAKULAM    II,Sarahs Hand Embroidery Ernakulam Ii,0.4
+SCANDINAVIAN AI,Scandinavian Ai,0.4
+SCANDINAVIAN AIRLINEUNITED STATES OF AME,Scandinavian Airlineunited States Of Ame,0.4
+SCC ONLINE PARKING       SEATTLE      WA,Scc Online Parking Seattle,0.4
+SCISSORS & SCOTCH 43SEATTLE             WA,Scissors Scotch Seattle,0.4
+SCOTTS DAIRY FREEZE NORTH BEND          WA,Scotts Dairy Freeze North Bend,0.4
+SDOT PAYBYPHONE PARKING 206-684-5260 WA,Sdot Paybyphone Parking - -,0.4
+SDOT PAYBYPHONE PARKING  2066842489   WA,Sdot Paybyphone Parking,0.4
+SDOT PAYBYPHONE PARKING  2066845260   WA,Sdot Paybyphone Parking,0.4
+SEA AIRPORT PARKING 2067874069 WA,Sea Airport Parking,0.4
+SEA AIRPORT PARKING SEATTLE             WA,Sea Airport Parking Seattle,0.4
+SEA AIRPORT PARKING      2067874069   WA,Sea Airport Parking,0.4
+SEA PEETS COFFEE SS 1310 TUKWILA      WA,Peet's Coffee,0.95
+SEA SMITH COVE 6951113 888-3100583 WA,Sea Smith Cove -,0.4
+SEATTLE BOAT CO. FUEBELLEVUE            WA,Seattle Boat Fuebellevue,0.4
+SEATTLE MAKERS      SEATTLE             WA,Seattle Makers Seattle,0.4
+SEATTLE METER PARKING    2066842489   WA,Seattle Meter Parking,0.4
+SEATTLE METER PARKINSEATTLE             WA,Seattle Meter Parkinseattle,0.4
+SEATTLE U CAMPUS STORE   SEATTLE      WA,Seattle U Campus Store Seattle,0.4
+SEATTLE UNIVERSITY CAMPUSSEATTLE      WA,Seattle University Campusseattle,0.4
+SEATTLEACADEMY 206-676-6894 WA,Seattleacademy - -,0.4
+SERCOTEL LOGRONO         LOGRONO      ES,Sercotel Logrono Logrono Es,0.4
+SEVEN ELEVEN        *                   JP,7-Eleven,0.8571428571428571
+SEVEN-ELEVEN             TOKYO        JP,Seven-Eleven Tokyo Jp,0.4
+SHELL C44048        LUMBY               CA,Shell,0.95
+SHELL OIL 10007312001    SEATTLE      WA,Shell,0.95
+SHELL OIL 52175500058    PINCONNING   MI,Shell,0.95
+SHELL OIL 57444157002    POULSBO      WA,Shell,0.95
+SHELL OIL 57445958606    SEATTLE      WA,Shell,0.95
+SHELL OIL10006032014     SEATTLE      WA,Shell,0.95
+SHELL OIL10006227010     SEATTLE      WA,Shell,0.95
+SHELL OIL12504839015     SEATTLE      WA,Shell,0.95
+SHELL SERVICE STATIOEASTON              WA,Shell,0.95
+SHELL SERVICE STATIOEDMONDS             WA,Shell,0.95
+SHELL SERVICE STATIOSEATTLE             WA,Shell,0.95
+SHELL SERVICE STATIOSUNRIVER            OR,Shell,0.95
+SHELLFISH LOGRONO        LOGRONO      ES,Shell,0.95
+SHORELINE SCHOOL DISTRICT206-3934215 WA,Shoreline School District -,0.4
+SHOVEL              GREENLAND           NH,Shovel Greenland,0.4
+SHREE GAS STATION THORP  THORP        WA,Shree Gas Station Thorp Thorp,0.4
+SILK PALACE              IDUKKI       II,Silk Palace Idukki Ii,0.4
+SIMPLY CHILE LOGRONO,Simply Chile Logrono,0.4
+SIMPLY CHILE             LOGRONO      ES,Simply Chile Logrono Es,0.4
+SINGAPOREAIR UNITED UNITED STATES       NY,Singaporeair United United States,0.4
+SINGAPOREAIR6184574088375-            NY,Singaporeair -,0.4
+SINGAPOREAIR6184574088376-            NY,Singaporeair -,0.4
+SIXT RENT A CAR SLU PALMA DE MALLORCA,Sixt Rent A Car Slu Palma Mallorca,0.4
+SKAGIT GEN STR           ROCKPORT     WA,Skagit Gen Str Rockport,0.4
+SLIDEWATERS WATERPARK    CHELAN       WA,Slidewaters Waterpark Chelan,0.4
+SMITH BROTHERS FARMS     877-6455626  WA,Smith Brothers Farms -,0.4
+SMITHOPTICS.COM SMITHOPTICS.COR,Smithoptics Com Smithoptics Cor,0.4
+SMOKEANDSPIN        OSAKA               JP,Smokeandspin Osaka Jp,0.4
+SNB S201121         Manchester          GB,Snb S Manchester Gb,0.4
+SNORKEL HOT TUBS INC     800-9626208  WA,Snorkel Hot Tubs Inc -,0.4
+SODEXO LIVE AT WSF       253-2268578  WA,Sodexo Live At Wsf -,0.4
+SOLE FOOD SEATTLE WA,Sole Food Seattle,0.4
+SOSIO'S PRODUCE          SEATTLE      WA,Sosio S Produce Seattle,0.4
+SOUVENIR SCHEIDEGGER     ADELBODEN    CH,Souvenir Scheidegger Adelboden Ch,0.4
+SP A LA MAISON DE PR     ALAMAISONDEPRFL,Sp A Maison Pr Alamaisondeprfl,0.4
+SP BIA SLEEP        VANCOUVER           CA,Sp Bia Sleep Vancouver,0.4
+SP DMOOSEFITNESS         DMOOSE.COM   WY,Sp Dmoosefitness Dmoose Com,0.4
+SP ENGINEERED NOW ENGINEEREDNOWCO,Sp Engineered Now Engineerednowco,0.4
+SP FELLOW PRODUCTS FELLOWPRODUCTCA,Sp Fellow Products Fellowproductca,0.4
+SP HENSON SHAVING        KITCHENER NORCD,Sp Henson Shaving Kitchener Norcd,0.4
+SP HONEY STINGER HONEYSTINGER.CO,Sp Honey Stinger Honeystinger,0.4
+SP J-B WELD              ORDER.JBWELD.GA,Sp J-B Weld Order Jbweld,0.4
+SP JACK JEROME 120-65245225 WA,Sp Jack Jerome -,0.4
+SP MODERNTRIBE           MODERNTRIBE.CTX,Sp Moderntribe Moderntribe Ctx,0.4
+SP MOTION BOARDSHOP SEATTLE             WA,Sp Motion Boardshop Seattle,0.4
+SP NATURE MADE           NATUREMADE.COCA,Sp Nature Made Naturemade Coca,0.4
+SP PAMPER HAUS DESIGN STORE.PAMPERHCA,Sp Pamper Haus Design Store Pamperhca,0.4
+SP PEACE LOVE HAPPINES   120-65471211 WA,Sp Peace Love Happines -,0.4
+SP PUREFORYOU            PUREFORYOU.COUT,Sp Pureforyou Pureforyou Cout,0.4
+SP SHOP GOLD DOGS        120-64991811 WA,Sp Shop Gold Dogs -,0.4
+SP SPIRITUAL GANGSTE SPIRITUALGANGCA,Sp Spiritual Gangste Spiritualgangca,0.4
+SP STORY IN A BOTTLE W   142-55909326 WA,Sp Story A Bottle W -,0.4
+SP STUDIORA BOUTIQUE     120-67172131 WA,Sp Studiora Boutique -,0.4
+SP TWISTONLINE           187-72486790 OR,Sp Twistonline -,0.4
+SP UNIVERSITY BOOK STO   120-66343400 WA,Sp University Book Sto -,0.4
+SP UNIVERSITY BOOK STO   UBOOKSTORE.COWA,Sp University Book Sto Ubookstore Cowa,0.4
+SP VC ULTEUIMATE    LONDON              GB,Sp Vc Ulteuimate London Gb,0.4
+SP VLOUSNOW.COM     BETHESDA            MD,Sp Vlousnow Com Bethesda,0.4
+SP VLOUSNOW.COM VLOUSNOW.COM MD,Sp Vlousnow Com Vlousnow Com,0.4
+SPICE TREE MUNNAR        IDUKKI       II,Spice Tree Munnar Idukki Ii,0.4
+SPO*BYREK&BAGUETTE       SEATTLE      WA,Spo Byrek Baguette Seattle,0.4
+SPO*MIRAKUTEISUSHI&RAMEN PORTLAND     OR,Spo Mirakuteisushi Ramen Portland,0.4
+SPOT                     WWW.GLOBALSTALA,Spot Www Globalstala,0.4
+SPOTHERO 844-356-8054    SPOTHERO.COM IL,Spothero - - Spothero Com,0.4
+SQ *AUT-TO MOCHA 6       Cashmere     WA,Square Aut-To Mocha Cashmere,0.4
+SQ *BATCH BAKING COMPANY SEATTLE      WA,Square Batch Baking Company Seattle,0.4
+SQ *BLANK SLATE CREAMERY Ann Arbor    MI,Square Blank Slate Creamery Ann Arbor,0.4
+SQ *CAPITOL HILL - WESTMASeattle      WA,Square Capitol Hill - Westmaseattle,0.4
+SQ *CATERING BY L'EXPERIEBellevue     WA,Square Catering By L Experiebellevue,0.4
+SQ *CHELAN STATION RERUNSCHELAN       WA,Square Chelan Station Rerunschelan,0.4
+SQ *CINNAMON TWISP BAKERYTWISP        WA,Square Cinnamon Twisp Bakerytwisp,0.4
+SQ *DIPPY'S ICE CREAM    Seattle      WA,Square Dippy S Ice Cream Seattle,0.4
+SQ *DON AND JOE'S MEATS  SEATTLE      WA,Square Don And Joe S Meats Seattle,0.4
+SQ *DOWNTOWN BAGEL CO    Seattle      WA,Square Downtown Bagel Seattle,0.4
+SQ *DRIFTWOOD NATURAL SKIgosq.com WA,Square Driftwood Natural Skigosq Com,0.4
+SQ *DSQUARED HOSPITALITY Seattle      WA,Square Dsquared Hospitality Seattle,0.4
+SQ *FRANKIE & JO'S       Seattle      WA,Square Frankie Jo S Seattle,0.4
+SQ *FRED HUTCH CANCER CENSeattle      WA,Square Fred Hutch Cancer Censeattle,0.4
+SQ *FULCRUM MOUNTAINTOPS Seattle WA,Square Fulcrum Mountaintops Seattle,0.4
+SQ *INHABIT DESIGN WORKS PORTLAND     OR,Square Inhabit Design Works Portland,0.4
+SQ *IRWIN'S BAKERY AND CASEATTLE      WA,Square Irwin S Bakery And Caseattle,0.4
+SQ *JOEY UNIVERSITY VILLASeattle WA,Square Joey University Villaseattle,0.4
+SQ *JUNI VINTAGE         Seattle      WA,Square Juni Vintage Seattle,0.4
+SQ *KATE GROSSMAN MD PLLCgosq.com     WA,Square Kate Grossman Pllcgosq Com,0.4
+SQ *LITTLE CONEY         SEATTLE      WA,Square Little Coney Seattle,0.4
+SQ *LULA SEATTLE WA,Square Lula Seattle,0.4
+SQ *LUNA BELLA'S CONSIGNMVashon WA,Square Luna Bella S Consignmvashon,0.4
+SQ *MACRINA - CAPITOL HILSeattle      WA,Square Macrina - Capitol Hilseattle,0.4
+SQ *MACRINA BAKERY - ALOHSeattle      WA,Square Macrina Bakery - Alohseattle,0.4
+SQ *MAINSTAY PROVISIONS DSeattle WA,Square Mainstay Provisions Dseattle,0.4
+SQ *MAINSTAY PROVISIONS DSeattle      WA,Square Mainstay Provisions Dseattle,0.4
+SQ *MEOW WOLF SANTA FE LLSanta Fe NM,Square Meow Wolf Santa Fe Llsanta Fe,0.4
+SQ *MIDNIGHT COOKIE COMPASeattle      WA,Square Midnight Cookie Compaseattle,0.4
+SQ *MIGHTY-O DONUTS CAPITSeattle      WA,Square Mighty-O Donuts Capitseattle,0.4
+SQ *MOLLY MOON'S MADRONA Seattle      WA,Square Molly Moon S Madrona Seattle,0.4
+SQ *MOLLY MOON'S UVILLAGESeattle      WA,Square Molly Moon S Uvillageseattle,0.4
+SQ *MOUNTAIN MEALS AND CAChelan       WA,Square Mountain Meals And Cachelan,0.4
+SQ *PACHA COLLECTIVE     Seattle      WA,Square Pacha Collective Seattle,0.4
+SQ *PANDA PHOTOGRAPHIC LASeattle      WA,Square Panda Photographic Laseattle,0.4
+SQ *PAYS PROVENCAL       Bainbridge IsWA,Square Pays Provencal Bainbridge Iswa,0.4
+SQ *PEONY                gosq.com     WA,Square Peony Gosq Com,0.4
+SQ *PETIT PIERRE BAKERY  Seattle      WA,Square Petit Pierre Bakery Seattle,0.4
+SQ *PICNIC POP-UP CHEESE Cerrillos NM,Square Picnic Pop-Up Cheese Cerrillos,0.4
+SQ *PROCTOR FARMERS MARKESeattle      WA,Square Proctor Farmers Markeseattle,0.4
+SQ *QUEEN ANNE COFFEE CO.Seattle      WA,Square Queen Anne Coffee Seattle,0.4
+SQ *RACHEL'S GINGER BEER seattle      WA,Square Rachel S Ginger Beer Seattle,0.4
+SQ *RAVENNA BREWING CO Seattle WA,Square Ravenna Brewing Seattle,0.4
+SQ *RAVENNA BREWING CO   Seattle      WA,Square Ravenna Brewing Seattle,0.4
+SQ *SAMURAI NOODLE NATIONSeattle      WA,Square Samurai Noodle Nationseattle,0.4
+SQ *SEATTLE GRAND CENTRALSeattle      WA,Square Seattle Grand Centralseattle,0.4
+SQ *SEATTLE POPS - FARMEREdmonds      WA,Square Seattle Pops - Farmeredmonds,0.4
+SQ *SEATTLE POPS - FARMERSeattle      WA,Square Seattle Pops - Farmerseattle,0.4
+SQ *SHAKE SHACK          Seattle      WA,Square Shake Shack Seattle,0.4
+SQ *SHERIS SWEET SHOPPE  Winthrop     WA,Square Sheris Sweet Shoppe Winthrop,0.4
+SQ *SOUTH LAKE UNION FRESSeattle      WA,Square South Lake Union Fresseattle,0.4
+SQ *STARFIRE SPORTS      Tukwila      WA,Square Starfire Sports Tukwila,0.4
+SQ *STYLECLASSEDGE Seattle WA,Square Styleclassedge Seattle,0.4
+SQ *STYLECLASSEDGE       Seattle      WA,Square Styleclassedge Seattle,0.4
+SQ *SUNRISE COFFEEHOUSE  Port TownsendWA,Square Sunrise Coffeehouse Port Townsendwa,0.4
+SQ *TACOS CHUKIS CENTRAL Seattle      WA,Square Tacos Chukis Central Seattle,0.4
+"SQ *TINY'S ORGANIC, LLC  Seattle      WA",Square Tiny S Organic Llc Seattle,0.4
+SQ *VISIBLE COFFEE ROASTESeattle WA,Square Visible Coffee Roasteseattle,0.4
+SQ *VOLUNTEER PARK CAFE &Seattle WA,Square Volunteer Park Cafe Seattle,0.4
+SQ *WESTMAN'S BAGEL AND CSeattle      WA,Square Westman S Bagel And Cseattle,0.4
+SQ*BUMPODO               TOKYO        JP,Square Bumpodo Tokyo Jp,0.4
+SQ*DENIMIO               TOKYO        JP,Square Denimio Tokyo Jp,0.4
+SQ*RIVIVE                OSAKA        JP,Square Rivive Osaka Jp,0.4
+SQ*SQUARE MERCHANT       NARA         JP,Square Square Merchant Nara Jp,0.4
+SQ*TEAPOND KIYOSUMI-SHIRATOKYO        JP,Square Teapond Kiyosumi-Shiratokyo Jp,0.4
+SQSP* DOMAIN#2019485NEW YORK            NY,Sqsp Domain New York,0.4
+SQSP* DOMAIN#2019489NEW YORK            NY,Sqsp Domain New York,0.4
+SQSP* DOMAIN#2021995NEW YORK            NY,Sqsp Domain New York,0.4
+SQSP* DOMAIN#2023197NEW YORK            NY,Sqsp Domain New York,0.4
+SQSP* DOMAIN#2057487NEW YORK            NY,Sqsp Domain New York,0.4
+SQSP* DOMAIN#2061082NEW YORK            NY,Sqsp Domain New York,0.4
+SQSP* INV177244147  NEW YORK            NY,Sqsp Inv New York,0.4
+SQSP* INV183850886  NEW YORK            NY,Sqsp Inv New York,0.4
+SRSMRKTPLACE.COM 9311    847-286-2500 IL,Srsmrktplace Com - -,0.4
+ST ANDREWS LINKS - TST. ANDREWS         GB,Street Andrews Links - Tst Andrews Gb,0.4
+ST ANDREWS SHUTTLE LDUNFERMLINE         GB,Street Andrews Shuttle Ldunfermline Gb,0.4
+ST ANDREWS UNIVERSITFIFE                FI,Street Andrews Universitfife Fi,0.4
+STARBUCKS 02810          SEATTLE      WA,Starbucks,0.95
+STARBUCKS 03238          SEATTLE      WA,Starbucks,0.95
+STARBUCKS COFFEE JAP*                   JP,Starbucks,0.95
+STARBUCKS COFFEE JAPAN   TOKYO        JP,Starbucks,0.95
+STARBUCKS CONC C PHL     PHILADELPHIA PA,Starbucks,0.95
+STARBUCKS EVENINGS SEA   SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 02810 SEATTLE WA,Starbucks,0.95
+STARBUCKS STORE 02810    SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 02958    SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 03204    SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 03238    SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 03324    SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 03376    SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 11158    SEATTLE      WA,Starbucks,0.95
+STARBUCKS STORE 47207    BELLEVUE     WA,Starbucks,0.95
+STARBUCKS STORE 85766    RIDGEFIELD   WA,Starbucks,0.95
+STARLINK INTERNET        310-6829683  CA,Starlink Internet -,0.4
+STEVE'S POKE BAR - CVancouver           CA,Steve S Poke Bar - Cvancouver,0.4
+STONEWAY HARDWARE BALLAR SEATTLE  CREDIT,Stoneway Hardware Ballar Seattle Credit,0.4
+STONEWAY HARDWARE BALLAR SEATTLE      WA,Stoneway Hardware Ballar Seattle,0.4
+STUDIO 45           SEATTLE             WA,Studio Seattle,0.4
+SUBWAY 22280             SEATTLE      WA,Subway Seattle,0.4
+SUBWAY 47663        RICHMOND            CA,Subway Richmond,0.4
+SUMMIT              *                   JP,Summit Jp,0.4
+SUMMIT AT SNOQUALMIE ECOM425-4347669 WA,Summit At Snoqualmie Ecom -,0.4
+SUMMIT AT SNOQUALMIE F&B SNOQUALMIE PAWA,Summit At Snoqualmie F B Snoqualmie Pawa,0.4
+SUMMIT AT SNOQUALMIESNOQUALMIE PA       WA,Summit At Snoqualmiesnoqualmie,0.4
+SUMMIT AT SNOQUALMIESNOQUALMIE PASS     WA,Summit At Snoqualmiesnoqualmie Pass,0.4
+SUMUP  *ZW GASTRO GMBH   WILDERSWIL   CH,Sumup Zw Gastro Gmbh Wilderswil Ch,0.4
+SUN MOUNTAIN LODGE       WINTHROP     WA,Sun Mountain Lodge Winthrop,0.4
+SUNCOVE MARKET           ORONDO       WA,Suncove Market Orondo,0.4
+SUPER SAVE GAS #11       MERRITT      CD,Super Save Gas Merritt Cd,0.4
+SUSHI KIZAEMON AIR  KYOTO               JP,Sushi Kizaemon Air Kyoto Jp,0.4
+SWALLOWTAIL GARDEN SEEDS 707-3267070  CA,Swallowtail Garden Seeds -,0.4
+SWANSONS NURSERY 2       SEATTLE      WA,Swansons Nursery Seattle,0.4
+SWEETGREEN 11TH + PINE   SEATTLE      WA,Sweetgreen Th Pine Seattle,0.4
+SWEETGREEN SOUTH LAKE SEATTLE WA,Sweetgreen South Lake Seattle,0.4
+Sarasa N/AP15 NAVARRA    PAMPLONA     ES,Sarasa N Ap Navarra Pamplona Es,0.4
+Science Olympiad Inc,Science Olympiad Inc,0.4
+Seattle Municipal Court,Seattle Municipal Court,0.4
+Seattle Symphony         Seattle      WA,Seattle Symphony Seattle,0.4
+Seattle University,Seattle University,0.4
+Shake Shack,Shake Shack,0.4
+Shell,Shell,0.95
+Sky Garden Center,Sky Garden Center,0.4
+Sky Lagoon - Retail Ca   Kopavogur    IS,Sky Lagoon - Retail Kopavogur Is,0.4
+Sky Zone Seattle Tukwila Tukwila      WA,Sky Zone Seattle Tukwila Tukwila,0.4
+Smith Brothers Farms,Smith Brothers Farms,0.4
+Southgate Roller Rinkseattle,Southgate Roller Rinkseattle,0.4
+Spo,Spo,0.4
+Spotify,Spotify,0.4
+Spotify P390163664       New York     NY,Spotify P New York,0.4
+Spotify P39FBA334F       New York     NY,Spotify P Fba F New York,0.4
+Spotify P3AFAA7E5A       New York     NY,Spotify P Afaa E A New York,0.4
+Spotify P3CDC3B795,Spotify P Cdc B,0.4
+Spotify USA              877-7781161  NY,Spotify Usa -,0.4
+Starbucks,Starbucks,0.95
+Starlink,Starlink,0.4
+Starlink                 Hawthorne    CA,Starlink Hawthorne,0.4
+Subway,Subway,0.4
+Subway 25523             Seattle      WA,Subway Seattle,0.4
+Subway 27300             Seattle      WA,Subway Seattle,0.4
+Sully Eats,Sully Eats,0.4
+Swing Sandwiches and Seattle,Swing Sandwiches And Seattle,0.4
+Sydney.mariejo,Sydney Mariejo,0.4
+T-MOBILE PARK            206-6643185  WA,T-Mobile Park -,0.4
+TACO BELL           BELLEVUE            WA,Texaco,0.8
+TACO BELL 031340         REDMOND      WA,Texaco,0.8
+TACOMA SCREW PRODUCTS INCSEATTLE      WA,Tacoma Screw Products Incseattle,0.4
+TAXI CARD OSAKA KOZIOSAKA               JP,Taxi Card Osaka Koziosaka Jp,0.4
+TEAMLAB PLANETS TOKYO    03-6670-3911 JP,Teamlab Planets Tokyo - - Jp,0.4
+TEN THOUSAND WAVES 150-59829304 NM,Ten Thousand Waves -,0.4
+TENNIS CENTER AT SANSEATTLE             WA,Tennis Center At Sanseattle,0.4
+TENPOZAN MARKET PLACE    OSAKA        JP,Tenpozan Market Place Osaka Jp,0.4
+TESLA INC SUPERCHARGPALO ALTO,Tesla Inc Superchargpalo Alto,0.4
+TESLA MOTORS CANADA TORONTO,Tesla Motors Canada Toronto,0.4
+TESLA SUBSCRIPTION US    PALO ALTO    CA,Tesla Subscription Palo Alto,0.4
+TFL TRAVEL REFUND   TFL.GOV.UK/CP       GB,Tfl Travel Refund Tfl Gov Cp Gb,0.4
+THANH VI 0000       SEATTLE             WA,Thanh Vi Seattle,0.4
+THE BERRY SPOT      SINGAPORE           SG,The Berry Spot Singapore,0.4
+THE BISTRO          JACKSON             WY,The Bistro Jackson,0.4
+THE FREE PRESS      NEW YORK            NY,The Free Press New York,0.4
+THE GRATEFUL BREAD SEATTLE WA,The Grateful Bread Seattle,0.4
+THE GRATEFUL BREAD       SEATTLE      WA,The Grateful Bread Seattle,0.4
+THE HARVEST VINE    SEATTLE             WA,The Harvest Vine Seattle,0.4
+THE HOME DEPOT      REDMOND             WA,The Home Depot Redmond,0.4
+THE HOME DEPOT #4702     SEATTLE      WA,The Home Depot Seattle,0.4
+THE HOME DEPOT #4706     SEATTLE      WA,The Home Depot Seattle,0.4
+THE HOME DEPOT #4715     BELLINGHAM   WA,The Home Depot Bellingham,0.4
+THE NEW STAND ST2889 SEATTLE WA,The New Stand Street Seattle,0.4
+THE POINT                SEATTLE      WA,The Point Seattle,0.4
+THE STATION CC           SEATTLE      WA,The Station Cc Seattle,0.4
+THEWAGYUBROTHERS PG TOKYO               JP,Thewagyubrothers Pg Tokyo Jp,0.4
+THIRD PLACE BOOKS ONLINE 206-366-3333 WA,Third Place Books Online - -,0.4
+THORNE RESEARCH     SUMMERVILLE         SC,Thorne Research Summerville,0.4
+THREE GIRLS BAKERY       SEATTLE      WA,Three Girls Bakery Seattle,0.4
+THREE SACKS FULL         SEATTLE      WA,Three Sacks Full Seattle,0.4
+TIA SOPHIA'S RESTAURANT SANTA FE NM,Tia Sophia S Restaurant Santa Fe,0.4
+TICKET COUNTER      TOKYO               JP,Ticket Counter Tokyo Jp,0.4
+TICKET VENDING JMMS TOKYO               JP,Ticket Vending Jmms Tokyo Jp,0.4
+TM *JON BATISTE 800-653-8000 CA,Tm Jon Batiste - -,0.4
+TM *SEATTLE MARINERS-T   800-653-8000 CA,Tm Seattle Mariners-T - -,0.4
+TM *TICKETMASTER         800-653-8000 CA,Tm Ticketmaster - -,0.4
+TOCK AT*TAVERN LAW TAVERNLAW.CO IL,Tock At Tavern Law Tavernlaw,0.4
+TOCK AT*TAVERN LAW       2063229734   IL,Tock At Tavern Law,0.4
+"TONAL SYSTEMS, INC       TONAL.COM    CA",Tonal Systems Inc Tonal Com,0.4
+TOTAL WINE AND MORE      BELLEVUE     WA,Total Wine And More Bellevue,0.4
+TPD WEDGWOOD 103         SEATTLE      WA,Tpd Wedgwood Seattle,0.4
+TRADER JOE S #130        SEATTLE      WA,Trader Joe's,0.95
+TRADER JOE S #137 00SEATTLE             WA,Trader Joe's,0.95
+TRAINLINE Trainline LONDON              GB,Trainline Trainline London Gb,0.4
+TREXMED             EDINBURGH           GB,Trexmed Edinburgh Gb,0.4
+TRINITY NIGHTCLUB SESeattle             WA,Trinity Nightclub Seseattle,0.4
+TST* 7TH STREET BURGNEW YORK            NY,Tst Th Street Burgnew York,0.4
+TST* ANCHORHEAD COFFEE - SEATTLE      WA,Tst Anchorhead Coffee - Seattle,0.4
+TST* BA BAR - CAPITOSEATTLE             WA,Tst Ba Bar - Capitoseattle,0.4
+TST* BBS TERIYAKI GRSEATTLE             WA,Tst Bbs Teriyaki Grseattle,0.4
+TST* BURGERMASTER - UNIVESEATTLE      WA,Tst Burgermaster - Univeseattle,0.4
+TST* CARMELO'S TACOS - CHSEATTLE      WA,Tst Carmelo S Tacos - Chseattle,0.4
+TST* CHURCHILL'S STESPOKANE             WA,Tst Churchill S Stespokane,0.4
+TST* EL CAMION - SAND POISEATTLE      WA,Tst El Camion - Sand Poiseattle,0.4
+TST* EL CAMION - SANSEATTLE             WA,Tst El Camion - Sanseattle,0.4
+TST* GRADUATE ANN ARBOR  ANN ARBOR    MI,Tst Graduate Ann Arbor Ann Arbor,0.4
+TST* GRAIN HOUSE - SEATTLSEATTLE      WA,Tst Grain House - Seattlseattle,0.4
+TST* HEY BAGEL 00206SEATTLE             WA,Tst Hey Bagel Seattle,0.4
+TST* JAMBA JUICE - 521 - SEATTLE      WA,Tst Jamba Juice - - Seattle,0.4
+TST* JUST PHO YOU 00NEW YORK            NY,Tst Just Pho You New York,0.4
+TST* KEDAI MAKAN CAPSEATTLE             WA,Tst Kedai Makan Capseattle,0.4
+TST* MR. WEST - UNIVERSITSEATTLE      WA,Tst Mr West - Universitseattle,0.4
+TST* ROUGH & TUMBLE PUB  SEATTLE      WA,Tst Rough Tumble Pub Seattle,0.4
+TST* SAINT BREAD 000SEATTLE             WA,Tst Saint Bread Seattle,0.4
+TST* SIZZLE&CRUNCH USEATTLE             WA,Tst Sizzle Crunch Useattle,0.4
+TST* TASTE OF INDIA SEATTLE             WA,Tst Taste Of India Seattle,0.4
+TST* VIOLET SEATTLE      SEATTLE      WA,Tst Violet Seattle Seattle,0.4
+TST* ZABARS 00005814NEW YORK            NY,Tst Zabars New York,0.4
+TST*AGUA VERDE CAFE Seattle WA,Tst Agua Verde Cafe Seattle,0.4
+TST*AGUA VERDE CAFE      Seattle      WA,Tst Agua Verde Cafe Seattle,0.4
+TST*ANCHORHEAD COFFEE -  Seattle      WA,Tst Anchorhead Coffee - Seattle,0.4
+TST*BA BAR - SOUTH LAKE Seattle WA,Tst Ba Bar - South Lake Seattle,0.4
+TST*BA BAR - UNIVERSITY  SEATTLE      WA,Tst Ba Bar - University Seattle,0.4
+TST*BALLARD PIZZA        Seattle      WA,Tst Ballard Pizza Seattle,0.4
+TST*BELLE EPICUREAN - EA Seattle WA,Tst Belle Epicurean - Ea Seattle,0.4
+TST*BLAZING BAGELS - BLA Seattle WA,Tst Blazing Bagels - Bla Seattle,0.4
+TST*BLAZING BAGELS - BLA Seattle      WA,Tst Blazing Bagels - Bla Seattle,0.4
+TST*BLAZING BAGELS - ISS Issaquah     WA,Tst Blazing Bagels - Iss Issaquah,0.4
+TST*BOBS BURGER & BREW   Burlington   WA,Tst Bobs Burger Brew Burlington,0.4
+TST*BOMBAY BURGER        Seattle      WA,Tst Bombay Burger Seattle,0.4
+TST*BOUNTY KITCHEN Seattle WA,Tst Bounty Kitchen Seattle,0.4
+TST*BOUNTY KITCHEN       Seattle      WA,Tst Bounty Kitchen Seattle,0.4
+TST*CAFFE FIORE - QA     Seattle      WA,Tst Caffe Fiore - Qa Seattle,0.4
+TST*CARMELOS TACOS - SE Seattle WA,Tst Carmelos Tacos - Se Seattle,0.4
+TST*DINGFELDERS DELICAT  Seattle      WA,Tst Dingfelders Delicat Seattle,0.4
+TST*EL CAMION - SAND POI Seattle WA,Tst El Camion - Sand Poi Seattle,0.4
+TST*EL CAMION - SAND POI Seattle      WA,Tst El Camion - Sand Poi Seattle,0.4
+TST*GASWORKS BREWERY Seattle WA,Tst Gasworks Brewery Seattle,0.4
+TST*GRAIN HOUSE - SEATTL Seattle      WA,Tst Grain House - Seattl Seattle,0.4
+TST*HEY BAGEL            Seattle      WA,Tst Hey Bagel Seattle,0.4
+TST*JUPITER              Winthrop     WA,Tst Jupiter Winthrop,0.4
+TST*KUMA - GEORGETOWN Seattle WA,Tst Kuma - Georgetown Seattle,0.4
+TST*MAGNUSON CAFE & BREW Seattle WA,Tst Magnuson Cafe Brew Seattle,0.4
+TST*MAMNOON STREET QSR Seattle WA,Tst Mamnoon Street Qsr Seattle,0.4
+TST*MEE SUM SEATTLE UNIV Seattle      WA,Tst Mee Sum Seattle Univ Seattle,0.4
+TST*MIOPOSTO - RAVENNA   Seattle      WA,Tst Mioposto - Ravenna Seattle,0.4
+TST*MOES DARRINGTON      Darrington   WA,Tst Moes Darrington Darrington,0.4
+TST*MONSOON - BELLEVUE Bellevue WA,Tst Monsoon - Bellevue Bellevue,0.4
+TST*OUTSIDER BBQ         Seattle      WA,Tst Outsider Bbq Seattle,0.4
+TST*PORTAGE BAY CAFE - R Seattle      WA,Tst Portage Bay Cafe - R Seattle,0.4
+TST*QUEEN CAPHE - EM     Seattle      WA,Tst Queen Caphe - Em Seattle,0.4
+TST*ROAM BAR LLC         Seattle      WA,Tst Roam Bar Llc Seattle,0.4
+TST*RUBINSTEIN BAGELS - Seattle WA,Tst Rubinstein Bagels - Seattle,0.4
+TST*SAINT BREAD          Seattle      WA,Tst Saint Bread Seattle,0.4
+TST*SKILLET REGRADE Seattle WA,Tst Skillet Regrade Seattle,0.4
+TST*THE BRYANT CORNER CA Seattle WA,Tst The Bryant Corner Seattle,0.4
+TSUTAYABUTSUKUSUTOAAPITSUTOKYO        JP,Tsutayabutsukusutoaapitsutokyo Jp,0.4
+TSUTENKAKU          OSAKA               JP,Tsutenkaku Osaka Jp,0.4
+TWEEDY & POPP HDWE AT UW SEATTLE      WA,Tweedy Popp Hdwe At Uw Seattle,0.4
+Tanners Seafood Tannersfish Cak,Tanners Seafood Tannersfish Cak,0.4
+Tesla,Tesla,0.4
+Teton Orthopaedics       307-7333900  WY,Teton Orthopaedics -,0.4
+The Container Store,The Container Store,0.4
+The Historic DavenpoSpokane             WA,The Historic Davenpospokane,0.4
+The Home Depot,The Home Depot,0.4
+The Webstaurant Store Inc717-392-7472 PA,The Webstaurant Store Inc - -,0.4
+Thefp.com,Thefp Com,0.4
+Title Nine - Seattle Seattle WA,Title Nine - Seattle Seattle,0.4
+Tonal.com,Tonal Com,0.4
+Topscore Ulti Usetopscore Cpa,Topscore Ulti Usetopscore Cpa,0.4
+Tweed and Popp Hardware,Tweed And Popp Hardware,0.4
+U-DISTRICT               clover.com   WA,U-District Clover Com,0.4
+UBER,Uber Trip,0.85
+UBER *TRIP HELP.UBER.COM Tokyo,Uber Trip,0.85
+UBER *TRIP HELP.UBER.COM help.uber.comNL,Uber Trip,0.85
+UBER *TRIP HELP.UBER.COMCA,Uber Trip,0.85
+UBER TRIP* TRIP UBER.COM,Uber Trip,0.85
+UKULTIMATE          LONDON              GB,Ukultimate London Gb,0.4
+ULINE  *SHIP SUPPLIES    800-295- CREDIT,Uline Ship Supplies - - Credit,0.4
+ULINE  *SHIP SUPPLIES    800-295-5510 WI,Uline Ship Supplies - -,0.4
+UNION 76 00464024   SEATTLE             WA,Union Seattle,0.4
+UNION 76 09486093   SEATTLE             WA,Union Seattle,0.4
+UNION 76 09518481   YAKIMA              WA,Union Yakima,0.4
+UNION 76 09553892   SEATTLE             WA,Union Seattle,0.4
+URBAN OUTFITTERS #111    SEATTLE      WA,Urban Outfitters Seattle,0.4
+US Postal Service,Postal Service,0.4
+USAA CREDIT CARD PAYMENT SAN ANTONIO  TX,Usaa Credit Card Payment San Antonio,0.4
+USAA Credit Card,Usaa Credit Card,0.4
+USAA FSB-OVERDRAFT       SAN ANTONIO  TX,Usaa Fsb-Overdraft San Antonio,0.4
+USAA INSURANCE BILL PAYMENT,Usaa Insurance Bill Payment,0.4
+USAA INSURANCE PAYMENT   WWW.USAA.COM TX,Usaa Insurance Payment Www Usaa Com,0.4
+USAA Insurance Payment,Usaa Insurance Payment,0.4
+USAA JJK MDS VISA PAYMENT ***********5521,Usaa Jjk Mds Visa Payment,0.4
+USAA Overdraft,Usaa Overdraft,0.4
+UW ASUW BIKE SHOP 00SEATTLE             WA,Uw Asuw Bike Shop Seattle,0.4
+UW FOOD SERVICES    SEATTLE             WA,Uw Food Services Seattle,0.4
+UW FOOD SERVICES 000SEATTLE             WA,Uw Food Services Seattle,0.4
+UW FOOD SERVICES         SEATTLE      WA,Uw Food Services Seattle,0.4
+UW HFS 0000         SEATTLE             WA,Uw Hfs Seattle,0.4
+UW HFS                   SEATTLE      WA,Uw Hfs Seattle,0.4
+UW MEDICINE              855-520-0400 WA,Uw Medicine - -,0.4
+UW PAY BY PHONE 206-685-1553 WA,Uw Pay By Phone - -,0.4
+UW PAY BY PHONE          SEATTLE      WA,Uw Pay By Phone Seattle,0.4
+UW RECREATIONS 0888 SEATTLE             WA,Uw Recreations Seattle,0.4
+UW TRANS SVC PAY STASEATTLE             WA,Uw Trans Svc Pay Staseattle,0.4
+UWAJIMAYA BELLEVUE       BELLEVUE     WA,Uwajimaya Bellevue Bellevue,0.4
+UWAJIMAYA SEATTLE        SEATTLE      WA,Uwajimaya Seattle Seattle,0.4
+United States Sailing Ass,United States Sailing Ass,0.4
+Uw Trans Pay Station,Uw Trans Pay Station,0.4
+Uwajimaya,Uwajimaya,0.4
+"V. FREITAS LAW, PLLC v@vfreitaslawWA",V Freitas Law Pllc V Vfreitaslawwa,0.4
+VAL*THE VIEW CAMPGROUN   OLJATO-MONUMEAZ,Val The View Campgroun Oljato-Monumeaz,0.4
+VENMO  *ADAM MARMORS8558124430          NY,Venmo Adam Marmors,0.4
+VENMO  *KATRINA GRIF8558124430          NY,Venmo Katrina Grif,0.4
+VENMO  *NINA KIBRIA 8558124430          NY,Venmo Nina Kibria,0.4
+VENMO *ADAM MARMORST8558124430          NY,Venmo Adam Marmorst,0.4
+VENMO *JENARO ROJAS 8558124430          NY,Venmo Jenaro Rojas,0.4
+VENMO *MAGGIE VODICK8558124430          NY,Venmo Maggie Vodick,0.4
+VENMO *MILES LIPSON 8558124430          NY,Venmo Miles Lipson,0.4
+VENMO *SEBASTIAN BYR8558124430          NY,Venmo Sebastian Byr,0.4
+VENMO *SHANNON BOSCH8558124430          NY,Venmo Shannon Bosch,0.4
+VERY FRESH NOODLES /NEW YORK            NY,Very Fresh Noodles New York,0.4
+VF OUTDOOR LLC      PORTLAND            OR,Vf Outdoor Llc Portland,0.4
+VIDA INTEGRATED HEALTH   THINKVIDA.COMWA,Vida Integrated Health Thinkvida Comwa,0.4
+VIETLICIOUS              SEATTLE      WA,Vietlicious Seattle,0.4
+VM PARKING BARONESS LOT  SEATTLE      WA,Vm Parking Baroness Lot Seattle,0.4
+VOLVO CARS SEATTLE       SEATTLE      WA,Volvo Cars Seattle Seattle,0.4
+Vagaro_*Refine Nails a SEATTLE WA,Vagaro Refine Nails A Seattle,0.4
+Vagaro_*Refine Nails and SEATTLE WA,Vagaro Refine Nails And Seattle,0.4
+Vans Seattle             Seattle      WA,Vans Seattle Seattle,0.4
+Vashon Island Baking Vashon,Vashon Island Baking Vashon,0.4
+Veraci Pizza Ballard Seattle,Veraci Pizza Ballard Seattle,0.4
+View Ridge,View Ridge,0.4
+Violet,Violet,0.4
+Virgin Atlantic AirwCrawley             W,Virgin Atlantic Airwcrawley W,0.4
+Vision Forward Associati,Vision Forward Associati,0.4
+Vrbo HA6L44TX 512-759-0902 TX,Vrbo Ha L - -,0.4
+Vrbo HA8BZ07S 512-759-0902 TX,Vrbo Ha Bz S - -,0.4
+Vrbo HA8BZ07S 512-7590902 TX,Vrbo Ha Bz S -,0.4
+WA DEPT OF HEALTH HSQA 360-236-4508 WA,Dept Of Health Hsqa - -,0.4
+WA DOL LIC & REG 77458   SEATTLE      WA,Dol Lic Reg Seattle,0.4
+WA PARKSRESERVATIONSWEB  398293706httpWA,Parksreservationsweb Httpwa,0.4
+WA PARKSRESERVATIONSWEB  948760235httpWA,Parksreservationsweb Httpwa,0.4
+WA VEHICLE LICENSING     360-902-7470 WA,Vehicle Licensing - -,0.4
+WALGREENS #6890          SEATTLE      WA,Walgreens Seattle,0.4
+WATERFRONT PIZZA INC     PORT TOWNSENDWA,Waterfront Pizza Inc Port Townsendwa,0.4
+WB E-STORE 800-766-0449 BC,Wb E-Store - - Bc,0.4
+WHITE PASS CO RESTAUNACHES              WA,White Pass Restaunaches,0.4
+"WHO GIVES A CRAP, INC.   US.WHOGIVESACNY",Who Gives A Crap Inc Whogivesacny,0.4
+WHOLEFDS BLV 10153 BELLEVUE WA,Whole Foods Market,0.8421052631578947
+WHOLEFDS CER 10104 SANTA FE NM,Whole Foods Market,0.8421052631578947
+WHOLEFDS MBD #10630      SEATTLE      WA,Whole Foods Market,0.8421052631578947
+WHOLEFDS RSQ 10103       SEATTLE      WA,Whole Foods Market,0.8421052631578947
+WILLIAMS-SONOMA 6181     SEATTLE      WA,Williams-Sonoma Seattle,0.4
+WILLIAMS-SONOMA 6181SEATTLE             WA,Williams-Sonoma Seattle,0.4
+WSDOT-GOODTOGO ONLINE    RENTON       WA,Wsdot-Goodtogo Online Renton,0.4
+WSFERRIES-BAINBRIDGE     SEATTLE      WA,Wsferries-Bainbridge Seattle,0.4
+WSFERRIES-COLMAN DOCK,Wsferries-Colman Dock,0.4
+WSFERRIES-FAUNTLEROY     SEATTLE      WA,Wsferries-Fauntleroy Seattle,0.4
+WSFERRIES-KINGSTON,Wsferries-Kingston,0.4
+WWW COSTCO COM,Costco,0.95
+WWW COSTCO COM           800-955-2292 WA,Costco,0.95
+WWW.CORRYSCLEANING.COM   WWW.CORRYSCLEWA,Www Corryscleaning Com Www Corrysclewa,0.4
+WWW.DWR.COM 800-944-2233 CT,Www Dwr Com - -,0.4
+WWW.INSPIREDCLOSETSSEA WWW.INSPIREDCWA,Www Inspiredclosetssea Www Inspiredcwa,0.4
+WWW.JFSSEATTLE.ORG       JFSSEATTLE.ORWA,Www Jfsseattle Org Jfsseattle Orwa,0.4
+WWW.ROWLANDPHOTO.COM     WWW.ROWLANDPHWA,Www Rowlandphoto Com Www Rowlandphwa,0.4
+WWW.SWEETGREEN.COM       162-65874164 CA,Www Sweetgreen Com -,0.4
+WWW.USSAILING.ORG        WWW.USSAILINGRI,Www Ussailing Org Www Ussailingri,0.4
+Washington Vehicle Licensing,Washington Vehicle Licensing,0.4
+Whey Pat St Andrews,Whey Pat Street Andrews,0.4
+Who Gives A Crap,Who Gives A Crap,0.4
+Wild Salmon Seafood,Wild Salmon Seafood,0.4
+Williams-Sonoma,Williams-Sonoma,0.4
+Wise,Wise,0.4
+XERO SHOES 720-259-0374 CO,Xero Shoes - -,0.4
+XI'AN NOODLES 0000  SEATTLE             WA,Xi An Noodles Seattle,0.4
+YAMAKARANA               NARA         JP,Yamakarana Nara Jp,0.4
+YASAKA              KYOTO               JP,Yasaka Kyoto Jp,0.4
+YELLOWSTONE NATIONALYELWSTN NL PK       WY,Yellowstone Nationalyelwstn Nl Pk,0.4
+YELP-GRUBHUB*TASTEOFIN   8775851085   NY,Yelp-Grubhub Tasteofin,0.4
+YUCATAN                  MADRID       ES,Yucatan Madrid Es,0.4
+ZIRAEL VEGAN RESTAURjing dou shi dong shKY,Zirael Vegan Restaurjing Dou Shi Dong Shky,0.4
+ZMARE                    DONOSTIA     ES,Zmare Donostia Es,0.4
+ZSK*IT THORPFRUIT ANTI   THORP        WA,Zsk It Thorpfruit Anti Thorp,0.4
+Zenniopticl,Zenniopticl,0.4
+a.saily                  Lewes        DE,A Saily Lewes,0.4
+as.Saily*saily Lewes DE,As Saily Saily Lewes,0.4
+bumpodo             qian dai tian qu    TO,Bumpodo Qian Dai Tian Qu To,0.4
+eBay O*17-13491-31996    Toronto      CD,Ebay O - - Toronto Cd,0.4
+"tripla Co., Ltd. Tokyo",Tripla Ltd Tokyo,0.4
+www.REI.com         KENT                WA,Www Rei Com Kent,0.4
